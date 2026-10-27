@@ -1,0 +1,127 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Small multiples: annual CO2 emissions since 1990 for the six large emitters (over 100 Mt in 2000) with the biggest absolute cuts since 2000. Each panel has its own y scale.",
+  "title": "Biggest cuts in annual CO₂ since 2000 (million tonnes per year)",
+  "data": {
+    "url": "data/reductions.csv"
+  },
+  "facet": {
+    "field": "country",
+    "type": "nominal",
+    "columns": 2,
+    "title": null,
+    "header": {
+      "labelFontSize": 12,
+      "labelFontWeight": 600,
+      "labelAnchor": "start"
+    }
+  },
+  "spec": {
+    "width": 190,
+    "height": 95,
+    "encoding": {
+      "x": {
+        "field": "year",
+        "type": "quantitative",
+        "title": null,
+        "axis": {
+          "format": "d",
+          "tickCount": 3
+        },
+        "scale": {
+          "nice": false
+        }
+      },
+      "y": {
+        "field": "co2",
+        "type": "quantitative",
+        "title": null,
+        "scale": {
+          "zero": true
+        },
+        "axis": {
+          "tickCount": 3
+        }
+      }
+    },
+    "layer": [
+      {
+        "mark": {
+          "type": "area",
+          "color": "#2166ac",
+          "opacity": 0.2
+        }
+      },
+      {
+        "mark": {
+          "type": "line",
+          "color": "#2166ac",
+          "strokeWidth": 2
+        }
+      },
+      {
+        "mark": {
+          "type": "point",
+          "opacity": 0,
+          "size": 60
+        },
+        "encoding": {
+          "tooltip": [
+            {
+              "field": "country",
+              "title": "Country"
+            },
+            {
+              "field": "year",
+              "title": "Year",
+              "type": "quantitative",
+              "format": "d"
+            },
+            {
+              "field": "co2",
+              "title": "CO₂ (Mt)",
+              "type": "quantitative",
+              "format": ",.0f"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  },
+  "background": "#fffef9",
+  "config": {
+    "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "gridColor": "#e4e8e0",
+      "domainColor": "#9aa8a3",
+      "tickColor": "#9aa8a3",
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontWeight": 600,
+      "anchor": "start",
+      "color": "#172d2c",
+      "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    }
+  }
+}

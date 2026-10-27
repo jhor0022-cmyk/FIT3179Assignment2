@@ -1,0 +1,118 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "background": "#fffef9",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "labelColor": "#354b49",
+      "gridColor": "#e5e9e4"
+    }
+  },
+  "height": {
+    "step": 22
+  },
+  "data": {
+    "url": "data/all-country-dumbbell.csv"
+  },
+  "description": "All countries with available emissions in 2000 and 2024; endpoints connected by a rule. Square-root horizontal scale.",
+  "encoding": {
+    "y": {
+      "field": "country",
+      "type": "nominal",
+      "sort": {
+        "field": "end",
+        "order": "descending"
+      },
+      "axis": {
+        "title": null,
+        "labelLimit": 155,
+        "labelFontSize": 11
+      }
+    },
+    "tooltip": [
+      {
+        "field": "country",
+        "type": "nominal"
+      },
+      {
+        "field": "start",
+        "type": "quantitative",
+        "title": "2000 (Mt)",
+        "format": ",.1f"
+      },
+      {
+        "field": "end",
+        "type": "quantitative",
+        "title": "2024 (Mt)",
+        "format": ",.1f"
+      },
+      {
+        "field": "change",
+        "type": "quantitative",
+        "title": "Change (Mt)",
+        "format": "+,.1f"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "strokeWidth": 3,
+        "opacity": 0.55,
+        "color": "#9dc5c2"
+      },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "type": "quantitative",
+          "scale": {
+            "type": "sqrt",
+            "zero": true
+          },
+          "title": "Annual CO₂ (million tonnes; square-root scale)"
+        },
+        "x2": {
+          "field": "end"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 54,
+        "color": "#aeb8c0"
+      },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 85,
+        "color": "#237e89"
+      },
+      "encoding": {
+        "x": {
+          "field": "end",
+          "type": "quantitative"
+        }
+      }
+    }
+  ]
+}

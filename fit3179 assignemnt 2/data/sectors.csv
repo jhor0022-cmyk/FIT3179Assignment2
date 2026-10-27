@@ -1,0 +1,1480 @@
+iso,country,sector,value_mt,country_total_mt
+ABW,Aruba,"Aviation, shipping & rail",0.03,0.5
+ABW,Aruba,Buildings & other,0.05,0.5
+ABW,Aruba,Electricity & heat,0.24,0.5
+ABW,Aruba,Industrial processes,0.0,0.5
+ABW,Aruba,Industry (fuel use),0.04,0.5
+ABW,Aruba,Road transport,0.14,0.5
+AFG,Afghanistan,Agriculture & waste,0.11,9.87
+AFG,Afghanistan,"Aviation, shipping & rail",0.76,9.87
+AFG,Afghanistan,Buildings & other,1.0,9.87
+AFG,Afghanistan,Electricity & heat,2.36,9.87
+AFG,Afghanistan,Fuel extraction & refining,0.07,9.87
+AFG,Afghanistan,Industrial processes,0.16,9.87
+AFG,Afghanistan,Industry (fuel use),2.24,9.87
+AFG,Afghanistan,Road transport,3.17,9.87
+AGO,Angola,"Aviation, shipping & rail",0.05,29.0
+AGO,Angola,Buildings & other,8.01,29.0
+AGO,Angola,Electricity & heat,3.34,29.0
+AGO,Angola,Fuel extraction & refining,5.12,29.0
+AGO,Angola,Industrial processes,1.94,29.0
+AGO,Angola,Industry (fuel use),1.63,29.0
+AGO,Angola,Road transport,8.91,29.0
+AIA,Anguilla,Buildings & other,0.0,0.02
+AIA,Anguilla,Electricity & heat,0.0,0.02
+AIA,Anguilla,Industrial processes,0.0,0.02
+AIA,Anguilla,Industry (fuel use),0.0,0.02
+AIA,Anguilla,Road transport,0.02,0.02
+ALB,Albania,Agriculture & waste,0.07,4.54
+ALB,Albania,"Aviation, shipping & rail",0.09,4.54
+ALB,Albania,Buildings & other,0.63,4.54
+ALB,Albania,Fuel extraction & refining,0.11,4.54
+ALB,Albania,Industrial processes,1.21,4.54
+ALB,Albania,Industry (fuel use),1.04,4.54
+ALB,Albania,Road transport,1.38,4.54
+ARE,United Arab Emirates,Agriculture & waste,0.02,207.66
+ARE,United Arab Emirates,"Aviation, shipping & rail",1.36,207.66
+ARE,United Arab Emirates,Buildings & other,17.69,207.66
+ARE,United Arab Emirates,Electricity & heat,62.83,207.66
+ARE,United Arab Emirates,Fuel extraction & refining,4.71,207.66
+ARE,United Arab Emirates,Industrial processes,18.54,207.66
+ARE,United Arab Emirates,Industry (fuel use),65.01,207.66
+ARE,United Arab Emirates,Road transport,37.51,207.66
+ARG,Argentina,Agriculture & waste,1.92,177.25
+ARG,Argentina,"Aviation, shipping & rail",4.25,177.25
+ARG,Argentina,Buildings & other,38.93,177.25
+ARG,Argentina,Electricity & heat,41.46,177.25
+ARG,Argentina,Fuel extraction & refining,17.17,177.25
+ARG,Argentina,Industrial processes,9.85,177.25
+ARG,Argentina,Industry (fuel use),20.91,177.25
+ARG,Argentina,Road transport,42.76,177.25
+ARM,Armenia,Agriculture & waste,0.04,7.82
+ARM,Armenia,Buildings & other,2.28,7.82
+ARM,Armenia,Electricity & heat,1.5,7.82
+ARM,Armenia,Fuel extraction & refining,0.29,7.82
+ARM,Armenia,Industrial processes,0.53,7.82
+ARM,Armenia,Industry (fuel use),0.63,7.82
+ARM,Armenia,Road transport,2.55,7.82
+ATG,Antigua and Barbuda,"Aviation, shipping & rail",0.02,0.33
+ATG,Antigua and Barbuda,Buildings & other,0.03,0.33
+ATG,Antigua and Barbuda,Electricity & heat,0.16,0.33
+ATG,Antigua and Barbuda,Industrial processes,0.0,0.33
+ATG,Antigua and Barbuda,Industry (fuel use),0.02,0.33
+ATG,Antigua and Barbuda,Road transport,0.09,0.33
+AUS,Australia,Agriculture & waste,2.76,379.22
+AUS,Australia,"Aviation, shipping & rail",18.35,379.22
+AUS,Australia,Buildings & other,20.02,379.22
+AUS,Australia,Electricity & heat,159.22,379.22
+AUS,Australia,Fuel extraction & refining,44.59,379.22
+AUS,Australia,Industrial processes,14.36,379.22
+AUS,Australia,Industry (fuel use),38.93,379.22
+AUS,Australia,Road transport,81.0,379.22
+AUT,Austria,Agriculture & waste,0.07,56.82
+AUT,Austria,"Aviation, shipping & rail",0.23,56.82
+AUT,Austria,Buildings & other,6.24,56.82
+AUT,Austria,Electricity & heat,9.88,56.82
+AUT,Austria,Fuel extraction & refining,6.89,56.82
+AUT,Austria,Industrial processes,4.69,56.82
+AUT,Austria,Industry (fuel use),9.24,56.82
+AUT,Austria,Road transport,19.59,56.82
+AZE,Azerbaijan,Agriculture & waste,0.15,38.8
+AZE,Azerbaijan,"Aviation, shipping & rail",0.83,38.8
+AZE,Azerbaijan,Buildings & other,10.18,38.8
+AZE,Azerbaijan,Electricity & heat,12.07,38.8
+AZE,Azerbaijan,Fuel extraction & refining,2.36,38.8
+AZE,Azerbaijan,Industrial processes,1.83,38.8
+AZE,Azerbaijan,Industry (fuel use),2.5,38.8
+AZE,Azerbaijan,Road transport,8.89,38.8
+BDI,Burundi,Agriculture & waste,0.0,0.9
+BDI,Burundi,"Aviation, shipping & rail",0.02,0.9
+BDI,Burundi,Buildings & other,0.07,0.9
+BDI,Burundi,Electricity & heat,0.16,0.9
+BDI,Burundi,Industrial processes,0.13,0.9
+BDI,Burundi,Industry (fuel use),0.1,0.9
+BDI,Burundi,Road transport,0.42,0.9
+BEL,Belgium,Agriculture & waste,0.2,86.08
+BEL,Belgium,"Aviation, shipping & rail",0.55,86.08
+BEL,Belgium,Buildings & other,19.48,86.08
+BEL,Belgium,Electricity & heat,11.54,86.08
+BEL,Belgium,Fuel extraction & refining,6.15,86.08
+BEL,Belgium,Industrial processes,8.15,86.08
+BEL,Belgium,Industry (fuel use),16.71,86.08
+BEL,Belgium,Road transport,23.29,86.08
+BEN,Benin,Agriculture & waste,0.0,8.48
+BEN,Benin,"Aviation, shipping & rail",0.01,8.48
+BEN,Benin,Buildings & other,0.23,8.48
+BEN,Benin,Electricity & heat,0.5,8.48
+BEN,Benin,Fuel extraction & refining,0.01,8.48
+BEN,Benin,Industrial processes,1.32,8.48
+BEN,Benin,Industry (fuel use),0.58,8.48
+BEN,Benin,Road transport,5.83,8.48
+BFA,Burkina Faso,Agriculture & waste,0.01,7.02
+BFA,Burkina Faso,"Aviation, shipping & rail",0.11,7.02
+BFA,Burkina Faso,Buildings & other,0.5,7.02
+BFA,Burkina Faso,Electricity & heat,1.17,7.02
+BFA,Burkina Faso,Industrial processes,1.28,7.02
+BFA,Burkina Faso,Industry (fuel use),0.77,7.02
+BFA,Burkina Faso,Road transport,3.16,7.02
+BGD,Bangladesh,Agriculture & waste,2.53,122.66
+BGD,Bangladesh,"Aviation, shipping & rail",3.66,122.66
+BGD,Bangladesh,Buildings & other,13.44,122.66
+BGD,Bangladesh,Electricity & heat,57.68,122.66
+BGD,Bangladesh,Fuel extraction & refining,1.31,122.66
+BGD,Bangladesh,Industrial processes,15.74,122.66
+BGD,Bangladesh,Industry (fuel use),17.77,122.66
+BGD,Bangladesh,Road transport,10.53,122.66
+BGR,Bulgaria,Agriculture & waste,0.82,35.58
+BGR,Bulgaria,"Aviation, shipping & rail",0.35,35.58
+BGR,Bulgaria,Buildings & other,1.09,35.58
+BGR,Bulgaria,Electricity & heat,12.0,35.58
+BGR,Bulgaria,Fuel extraction & refining,2.73,35.58
+BGR,Bulgaria,Industrial processes,4.24,35.58
+BGR,Bulgaria,Industry (fuel use),4.19,35.58
+BGR,Bulgaria,Road transport,10.14,35.58
+BHR,Bahrain,Agriculture & waste,0.01,42.75
+BHR,Bahrain,"Aviation, shipping & rail",0.09,42.75
+BHR,Bahrain,Buildings & other,0.28,42.75
+BHR,Bahrain,Electricity & heat,28.34,42.75
+BHR,Bahrain,Fuel extraction & refining,3.72,42.75
+BHR,Bahrain,Industrial processes,4.15,42.75
+BHR,Bahrain,Industry (fuel use),2.3,42.75
+BHR,Bahrain,Road transport,3.85,42.75
+BHS,Bahamas,Agriculture & waste,0.0,1.47
+BHS,Bahamas,"Aviation, shipping & rail",0.08,1.47
+BHS,Bahamas,Buildings & other,0.14,1.47
+BHS,Bahamas,Electricity & heat,0.71,1.47
+BHS,Bahamas,Fuel extraction & refining,0.0,1.47
+BHS,Bahamas,Industrial processes,0.0,1.47
+BHS,Bahamas,Industry (fuel use),0.11,1.47
+BHS,Bahamas,Road transport,0.42,1.47
+BIH,Bosnia and Herzegovina,Agriculture & waste,0.02,20.29
+BIH,Bosnia and Herzegovina,Buildings & other,0.62,20.29
+BIH,Bosnia and Herzegovina,Electricity & heat,11.35,20.29
+BIH,Bosnia and Herzegovina,Fuel extraction & refining,1.18,20.29
+BIH,Bosnia and Herzegovina,Industrial processes,1.48,20.29
+BIH,Bosnia and Herzegovina,Industry (fuel use),1.26,20.29
+BIH,Bosnia and Herzegovina,Road transport,4.38,20.29
+BLR,Belarus,Agriculture & waste,0.76,55.42
+BLR,Belarus,"Aviation, shipping & rail",1.14,55.42
+BLR,Belarus,Buildings & other,7.29,55.42
+BLR,Belarus,Electricity & heat,25.19,55.42
+BLR,Belarus,Fuel extraction & refining,2.61,55.42
+BLR,Belarus,Industrial processes,5.13,55.42
+BLR,Belarus,Industry (fuel use),4.64,55.42
+BLR,Belarus,Road transport,8.66,55.42
+BLZ,Belize,"Aviation, shipping & rail",0.02,0.38
+BLZ,Belize,Buildings & other,0.04,0.38
+BLZ,Belize,Electricity & heat,0.18,0.38
+BLZ,Belize,Fuel extraction & refining,0.0,0.38
+BLZ,Belize,Industrial processes,0.0,0.38
+BLZ,Belize,Industry (fuel use),0.03,0.38
+BLZ,Belize,Road transport,0.11,0.38
+BMU,Bermuda,"Aviation, shipping & rail",0.01,0.24
+BMU,Bermuda,Buildings & other,0.02,0.24
+BMU,Bermuda,Electricity & heat,0.12,0.24
+BMU,Bermuda,Industrial processes,0.0,0.24
+BMU,Bermuda,Industry (fuel use),0.02,0.24
+BMU,Bermuda,Road transport,0.07,0.24
+BOL,Bolivia,Agriculture & waste,0.0,24.97
+BOL,Bolivia,"Aviation, shipping & rail",0.33,24.97
+BOL,Bolivia,Buildings & other,2.87,24.97
+BOL,Bolivia,Electricity & heat,3.91,24.97
+BOL,Bolivia,Fuel extraction & refining,0.93,24.97
+BOL,Bolivia,Industrial processes,1.62,24.97
+BOL,Bolivia,Industry (fuel use),2.17,24.97
+BOL,Bolivia,Road transport,13.13,24.97
+BRA,Brazil,Agriculture & waste,15.62,491.07
+BRA,Brazil,"Aviation, shipping & rail",17.86,491.07
+BRA,Brazil,Buildings & other,42.21,491.07
+BRA,Brazil,Electricity & heat,51.6,491.07
+BRA,Brazil,Fuel extraction & refining,29.65,491.07
+BRA,Brazil,Industrial processes,48.28,491.07
+BRA,Brazil,Industry (fuel use),87.6,491.07
+BRA,Brazil,Road transport,198.26,491.07
+BRB,Barbados,"Aviation, shipping & rail",0.04,0.77
+BRB,Barbados,Buildings & other,0.07,0.77
+BRB,Barbados,Electricity & heat,0.33,0.77
+BRB,Barbados,Fuel extraction & refining,0.0,0.77
+BRB,Barbados,Industrial processes,0.08,0.77
+BRB,Barbados,Industry (fuel use),0.05,0.77
+BRB,Barbados,Road transport,0.2,0.77
+BRN,Brunei,Agriculture & waste,0.0,8.97
+BRN,Brunei,"Aviation, shipping & rail",0.01,8.97
+BRN,Brunei,Buildings & other,0.09,8.97
+BRN,Brunei,Electricity & heat,4.22,8.97
+BRN,Brunei,Fuel extraction & refining,2.59,8.97
+BRN,Brunei,Industrial processes,0.14,8.97
+BRN,Brunei,Industry (fuel use),0.58,8.97
+BRN,Brunei,Road transport,1.34,8.97
+BTN,Bhutan,Agriculture & waste,0.0,2.06
+BTN,Bhutan,"Aviation, shipping & rail",0.06,2.06
+BTN,Bhutan,Buildings & other,0.07,2.06
+BTN,Bhutan,Electricity & heat,0.36,2.06
+BTN,Bhutan,Fuel extraction & refining,0.0,2.06
+BTN,Bhutan,Industrial processes,0.73,2.06
+BTN,Bhutan,Industry (fuel use),0.6,2.06
+BTN,Bhutan,Road transport,0.24,2.06
+BWA,Botswana,"Aviation, shipping & rail",0.03,8.43
+BWA,Botswana,Buildings & other,0.14,8.43
+BWA,Botswana,Electricity & heat,4.77,8.43
+BWA,Botswana,Fuel extraction & refining,0.02,8.43
+BWA,Botswana,Industrial processes,0.38,8.43
+BWA,Botswana,Industry (fuel use),0.69,8.43
+BWA,Botswana,Road transport,2.39,8.43
+CAF,Central African Republic,"Aviation, shipping & rail",0.01,0.42
+CAF,Central African Republic,Buildings & other,0.04,0.42
+CAF,Central African Republic,Electricity & heat,0.08,0.42
+CAF,Central African Republic,Industrial processes,0.01,0.42
+CAF,Central African Republic,Industry (fuel use),0.06,0.42
+CAF,Central African Republic,Road transport,0.23,0.42
+CAN,Canada,Agriculture & waste,4.36,568.63
+CAN,Canada,"Aviation, shipping & rail",27.87,568.63
+CAN,Canada,Buildings & other,85.07,568.63
+CAN,Canada,Electricity & heat,75.7,568.63
+CAN,Canada,Fuel extraction & refining,141.57,568.63
+CAN,Canada,Industrial processes,30.9,568.63
+CAN,Canada,Industry (fuel use),66.31,568.63
+CAN,Canada,Road transport,136.84,568.63
+CHE,Switzerland,Agriculture & waste,0.05,32.69
+CHE,Switzerland,"Aviation, shipping & rail",0.29,32.69
+CHE,Switzerland,Buildings & other,9.39,32.69
+CHE,Switzerland,Electricity & heat,2.63,32.69
+CHE,Switzerland,Fuel extraction & refining,0.34,32.69
+CHE,Switzerland,Industrial processes,2.31,32.69
+CHE,Switzerland,Industry (fuel use),3.75,32.69
+CHE,Switzerland,Road transport,13.94,32.69
+CHL,Chile,Agriculture & waste,0.32,77.04
+CHL,Chile,"Aviation, shipping & rail",2.76,77.04
+CHL,Chile,Buildings & other,8.55,77.04
+CHL,Chile,Electricity & heat,18.2,77.04
+CHL,Chile,Fuel extraction & refining,1.77,77.04
+CHL,Chile,Industrial processes,2.96,77.04
+CHL,Chile,Industry (fuel use),15.97,77.04
+CHL,Chile,Road transport,26.5,77.04
+CHN,China,Agriculture & waste,42.32,13125.07
+CHN,China,"Aviation, shipping & rail",193.95,13125.07
+CHN,China,Buildings & other,567.02,13125.07
+CHN,China,Electricity & heat,6645.97,13125.07
+CHN,China,Fuel extraction & refining,760.23,13125.07
+CHN,China,Industrial processes,1393.2,13125.07
+CHN,China,Industry (fuel use),2652.38,13125.07
+CHN,China,Road transport,870.0,13125.07
+CIV,Cote d'Ivoire,Agriculture & waste,0.2,20.17
+CIV,Cote d'Ivoire,"Aviation, shipping & rail",0.5,20.17
+CIV,Cote d'Ivoire,Buildings & other,2.6,20.17
+CIV,Cote d'Ivoire,Electricity & heat,5.29,20.17
+CIV,Cote d'Ivoire,Fuel extraction & refining,0.59,20.17
+CIV,Cote d'Ivoire,Industrial processes,2.32,20.17
+CIV,Cote d'Ivoire,Industry (fuel use),1.15,20.17
+CIV,Cote d'Ivoire,Road transport,7.53,20.17
+CMR,Cameroon,Agriculture & waste,0.06,9.09
+CMR,Cameroon,"Aviation, shipping & rail",0.01,9.09
+CMR,Cameroon,Buildings & other,0.77,9.09
+CMR,Cameroon,Electricity & heat,1.41,9.09
+CMR,Cameroon,Fuel extraction & refining,0.75,9.09
+CMR,Cameroon,Industrial processes,1.88,9.09
+CMR,Cameroon,Industry (fuel use),0.3,9.09
+CMR,Cameroon,Road transport,3.91,9.09
+COD,Democratic Republic of Congo,"Aviation, shipping & rail",0.59,4.83
+COD,Democratic Republic of Congo,Buildings & other,0.09,4.83
+COD,Democratic Republic of Congo,Electricity & heat,0.01,4.83
+COD,Democratic Republic of Congo,Fuel extraction & refining,0.12,4.83
+COD,Democratic Republic of Congo,Industrial processes,1.11,4.83
+COD,Democratic Republic of Congo,Industry (fuel use),0.06,4.83
+COD,Democratic Republic of Congo,Road transport,2.86,4.83
+COG,Congo,Agriculture & waste,0.0,7.98
+COG,Congo,"Aviation, shipping & rail",0.13,7.98
+COG,Congo,Buildings & other,0.19,7.98
+COG,Congo,Electricity & heat,2.22,7.98
+COG,Congo,Fuel extraction & refining,3.47,7.98
+COG,Congo,Industrial processes,0.42,7.98
+COG,Congo,Industry (fuel use),0.0,7.98
+COG,Congo,Road transport,1.55,7.98
+COK,Cook Islands,"Aviation, shipping & rail",0.01,0.1
+COK,Cook Islands,Buildings & other,0.01,0.1
+COK,Cook Islands,Electricity & heat,0.02,0.1
+COK,Cook Islands,Fuel extraction & refining,0.0,0.1
+COK,Cook Islands,Industrial processes,0.0,0.1
+COK,Cook Islands,Industry (fuel use),0.01,0.1
+COK,Cook Islands,Road transport,0.04,0.1
+COL,Colombia,Agriculture & waste,0.66,100.39
+COL,Colombia,"Aviation, shipping & rail",1.87,100.39
+COL,Colombia,Buildings & other,9.83,100.39
+COL,Colombia,Electricity & heat,21.95,100.39
+COL,Colombia,Fuel extraction & refining,9.13,100.39
+COL,Colombia,Industrial processes,6.37,100.39
+COL,Colombia,Industry (fuel use),14.61,100.39
+COL,Colombia,Road transport,35.97,100.39
+COM,Comoros,"Aviation, shipping & rail",0.01,0.35
+COM,Comoros,Buildings & other,0.03,0.35
+COM,Comoros,Electricity & heat,0.07,0.35
+COM,Comoros,Industrial processes,0.0,0.35
+COM,Comoros,Industry (fuel use),0.05,0.35
+COM,Comoros,Road transport,0.19,0.35
+CPV,Cape Verde,"Aviation, shipping & rail",0.01,0.69
+CPV,Cape Verde,Buildings & other,0.06,0.69
+CPV,Cape Verde,Electricity & heat,0.14,0.69
+CPV,Cape Verde,Industrial processes,0.0,0.69
+CPV,Cape Verde,Industry (fuel use),0.09,0.69
+CPV,Cape Verde,Road transport,0.38,0.69
+CRI,Costa Rica,Agriculture & waste,0.13,9.93
+CRI,Costa Rica,"Aviation, shipping & rail",0.03,9.93
+CRI,Costa Rica,Buildings & other,0.69,9.93
+CRI,Costa Rica,Electricity & heat,1.1,9.93
+CRI,Costa Rica,Fuel extraction & refining,0.0,9.93
+CRI,Costa Rica,Industrial processes,0.43,9.93
+CRI,Costa Rica,Industry (fuel use),0.95,9.93
+CRI,Costa Rica,Road transport,6.58,9.93
+CUB,Cuba,Agriculture & waste,0.01,19.87
+CUB,Cuba,"Aviation, shipping & rail",0.02,19.87
+CUB,Cuba,Buildings & other,2.2,19.87
+CUB,Cuba,Electricity & heat,9.21,19.87
+CUB,Cuba,Fuel extraction & refining,0.45,19.87
+CUB,Cuba,Industrial processes,0.4,19.87
+CUB,Cuba,Industry (fuel use),6.03,19.87
+CUB,Cuba,Road transport,1.54,19.87
+CYP,Cyprus,Agriculture & waste,0.0,7.12
+CYP,Cyprus,"Aviation, shipping & rail",0.02,7.12
+CYP,Cyprus,Buildings & other,0.47,7.12
+CYP,Cyprus,Electricity & heat,3.22,7.12
+CYP,Cyprus,Fuel extraction & refining,0.01,7.12
+CYP,Cyprus,Industrial processes,0.79,7.12
+CYP,Cyprus,Industry (fuel use),0.63,7.12
+CYP,Cyprus,Road transport,1.99,7.12
+CZE,Czechia,Agriculture & waste,0.26,79.56
+CZE,Czechia,"Aviation, shipping & rail",0.25,79.56
+CZE,Czechia,Buildings & other,8.5,79.56
+CZE,Czechia,Electricity & heat,33.67,79.56
+CZE,Czechia,Fuel extraction & refining,3.31,79.56
+CZE,Czechia,Industrial processes,4.62,79.56
+CZE,Czechia,Industry (fuel use),8.74,79.56
+CZE,Czechia,Road transport,20.21,79.56
+DEU,Germany,Agriculture & waste,0.54,568.86
+DEU,Germany,"Aviation, shipping & rail",3.57,568.86
+DEU,Germany,Buildings & other,108.5,568.86
+DEU,Germany,Electricity & heat,178.49,568.86
+DEU,Germany,Fuel extraction & refining,26.71,568.86
+DEU,Germany,Industrial processes,35.23,568.86
+DEU,Germany,Industry (fuel use),81.36,568.86
+DEU,Germany,Road transport,134.45,568.86
+DJI,Djibouti,"Aviation, shipping & rail",0.01,0.86
+DJI,Djibouti,Buildings & other,0.06,0.86
+DJI,Djibouti,Electricity & heat,0.13,0.86
+DJI,Djibouti,Industrial processes,0.22,0.86
+DJI,Djibouti,Industry (fuel use),0.09,0.86
+DJI,Djibouti,Road transport,0.36,0.86
+DMA,Dominica,Agriculture & waste,0.0,0.08
+DMA,Dominica,"Aviation, shipping & rail",0.0,0.08
+DMA,Dominica,Buildings & other,0.01,0.08
+DMA,Dominica,Electricity & heat,0.04,0.08
+DMA,Dominica,Industrial processes,0.0,0.08
+DMA,Dominica,Industry (fuel use),0.01,0.08
+DMA,Dominica,Road transport,0.02,0.08
+DNK,Denmark,Agriculture & waste,0.08,23.67
+DNK,Denmark,"Aviation, shipping & rail",0.67,23.67
+DNK,Denmark,Buildings & other,3.35,23.67
+DNK,Denmark,Electricity & heat,4.12,23.67
+DNK,Denmark,Fuel extraction & refining,1.7,23.67
+DNK,Denmark,Industrial processes,1.18,23.67
+DNK,Denmark,Industry (fuel use),3.18,23.67
+DNK,Denmark,Road transport,9.39,23.67
+DOM,Dominican Republic,Agriculture & waste,0.14,33.09
+DOM,Dominican Republic,"Aviation, shipping & rail",1.38,33.09
+DOM,Dominican Republic,Buildings & other,1.88,33.09
+DOM,Dominican Republic,Electricity & heat,14.54,33.09
+DOM,Dominican Republic,Fuel extraction & refining,0.42,33.09
+DOM,Dominican Republic,Industrial processes,2.52,33.09
+DOM,Dominican Republic,Industry (fuel use),5.31,33.09
+DOM,Dominican Republic,Road transport,6.9,33.09
+DZA,Algeria,Agriculture & waste,0.16,197.41
+DZA,Algeria,"Aviation, shipping & rail",2.05,197.41
+DZA,Algeria,Buildings & other,32.15,197.41
+DZA,Algeria,Electricity & heat,49.35,197.41
+DZA,Algeria,Fuel extraction & refining,32.53,197.41
+DZA,Algeria,Industrial processes,16.68,197.41
+DZA,Algeria,Industry (fuel use),17.64,197.41
+DZA,Algeria,Road transport,46.86,197.41
+ECU,Ecuador,Agriculture & waste,0.51,44.44
+ECU,Ecuador,"Aviation, shipping & rail",1.34,44.44
+ECU,Ecuador,Buildings & other,5.87,44.44
+ECU,Ecuador,Electricity & heat,6.25,44.44
+ECU,Ecuador,Fuel extraction & refining,3.2,44.44
+ECU,Ecuador,Industrial processes,2.3,44.44
+ECU,Ecuador,Industry (fuel use),3.69,44.44
+ECU,Ecuador,Road transport,21.27,44.44
+EGY,Egypt,Agriculture & waste,2.39,288.34
+EGY,Egypt,"Aviation, shipping & rail",3.27,288.34
+EGY,Egypt,Buildings & other,16.25,288.34
+EGY,Egypt,Electricity & heat,88.6,288.34
+EGY,Egypt,Fuel extraction & refining,25.79,288.34
+EGY,Egypt,Industrial processes,37.3,288.34
+EGY,Egypt,Industry (fuel use),45.2,288.34
+EGY,Egypt,Road transport,69.53,288.34
+ERI,Eritrea,"Aviation, shipping & rail",0.01,0.76
+ERI,Eritrea,Buildings & other,0.05,0.76
+ERI,Eritrea,Electricity & heat,0.36,0.76
+ERI,Eritrea,Industrial processes,0.08,0.76
+ERI,Eritrea,Industry (fuel use),0.02,0.76
+ERI,Eritrea,Road transport,0.23,0.76
+ESP,Spain,Agriculture & waste,1.03,218.61
+ESP,Spain,"Aviation, shipping & rail",10.8,218.61
+ESP,Spain,Buildings & other,28.84,218.61
+ESP,Spain,Electricity & heat,31.73,218.61
+ESP,Spain,Fuel extraction & refining,18.48,218.61
+ESP,Spain,Industrial processes,16.79,218.61
+ESP,Spain,Industry (fuel use),29.22,218.61
+ESP,Spain,Road transport,81.72,218.61
+EST,Estonia,Agriculture & waste,0.07,11.04
+EST,Estonia,"Aviation, shipping & rail",0.05,11.04
+EST,Estonia,Buildings & other,0.38,11.04
+EST,Estonia,Electricity & heat,2.68,11.04
+EST,Estonia,Fuel extraction & refining,4.71,11.04
+EST,Estonia,Industrial processes,0.12,11.04
+EST,Estonia,Industry (fuel use),0.27,11.04
+EST,Estonia,Road transport,2.77,11.04
+ETH,Ethiopia,Agriculture & waste,0.6,19.15
+ETH,Ethiopia,"Aviation, shipping & rail",0.05,19.15
+ETH,Ethiopia,Buildings & other,1.52,19.15
+ETH,Ethiopia,Electricity & heat,0.0,19.15
+ETH,Ethiopia,Fuel extraction & refining,0.01,19.15
+ETH,Ethiopia,Industrial processes,4.35,19.15
+ETH,Ethiopia,Industry (fuel use),5.97,19.15
+ETH,Ethiopia,Road transport,6.67,19.15
+FIN,Finland,"Aviation, shipping & rail",0.47,31.38
+FIN,Finland,Buildings & other,3.14,31.38
+FIN,Finland,Electricity & heat,7.27,31.38
+FIN,Finland,Fuel extraction & refining,3.63,31.38
+FIN,Finland,Industrial processes,3.03,31.38
+FIN,Finland,Industry (fuel use),4.8,31.38
+FIN,Finland,Road transport,9.03,31.38
+FJI,Fiji,"Aviation, shipping & rail",0.2,2.14
+FJI,Fiji,Buildings & other,0.27,2.14
+FJI,Fiji,Electricity & heat,0.49,2.14
+FJI,Fiji,Fuel extraction & refining,0.0,2.14
+FJI,Fiji,Industrial processes,0.05,2.14
+FJI,Fiji,Industry (fuel use),0.28,2.14
+FJI,Fiji,Road transport,0.84,2.14
+FRA,France,Agriculture & waste,3.69,279.05
+FRA,France,"Aviation, shipping & rail",5.91,279.05
+FRA,France,Buildings & other,59.24,279.05
+FRA,France,Electricity & heat,23.63,279.05
+FRA,France,Fuel extraction & refining,15.91,279.05
+FRA,France,Industrial processes,19.07,279.05
+FRA,France,Industry (fuel use),37.07,279.05
+FRA,France,Road transport,114.52,279.05
+FRO,Faroe Islands,Agriculture & waste,0.0,0.0
+FRO,Faroe Islands,Industrial processes,0.0,0.0
+FSM,Micronesia (country),Industrial processes,0.0,0.0
+GAB,Gabon,Agriculture & waste,0.0,4.51
+GAB,Gabon,"Aviation, shipping & rail",0.0,4.51
+GAB,Gabon,Buildings & other,0.17,4.51
+GAB,Gabon,Electricity & heat,1.57,4.51
+GAB,Gabon,Fuel extraction & refining,1.84,4.51
+GAB,Gabon,Industrial processes,0.23,4.51
+GAB,Gabon,Industry (fuel use),0.49,4.51
+GAB,Gabon,Road transport,0.2,4.51
+GBR,United Kingdom,Agriculture & waste,1.61,294.5
+GBR,United Kingdom,"Aviation, shipping & rail",6.79,294.5
+GBR,United Kingdom,Buildings & other,79.82,294.5
+GBR,United Kingdom,Electricity & heat,48.04,294.5
+GBR,United Kingdom,Fuel extraction & refining,21.69,294.5
+GBR,United Kingdom,Industrial processes,10.14,294.5
+GBR,United Kingdom,Industry (fuel use),26.39,294.5
+GBR,United Kingdom,Road transport,100.01,294.5
+GEO,Georgia,Agriculture & waste,0.08,13.79
+GEO,Georgia,"Aviation, shipping & rail",0.7,13.79
+GEO,Georgia,Buildings & other,3.64,13.79
+GEO,Georgia,Electricity & heat,1.19,13.79
+GEO,Georgia,Fuel extraction & refining,0.2,13.79
+GEO,Georgia,Industrial processes,2.06,13.79
+GEO,Georgia,Industry (fuel use),1.68,13.79
+GEO,Georgia,Road transport,4.24,13.79
+GHA,Ghana,"Aviation, shipping & rail",0.79,26.21
+GHA,Ghana,Buildings & other,0.81,26.21
+GHA,Ghana,Electricity & heat,7.79,26.21
+GHA,Ghana,Fuel extraction & refining,1.03,26.21
+GHA,Ghana,Industrial processes,3.19,26.21
+GHA,Ghana,Industry (fuel use),2.2,26.21
+GHA,Ghana,Road transport,10.39,26.21
+GIN,Guinea,"Aviation, shipping & rail",0.09,5.28
+GIN,Guinea,Buildings & other,0.4,5.28
+GIN,Guinea,Electricity & heat,0.93,5.28
+GIN,Guinea,Industrial processes,0.74,5.28
+GIN,Guinea,Industry (fuel use),0.61,5.28
+GIN,Guinea,Road transport,2.51,5.28
+GMB,Gambia,"Aviation, shipping & rail",0.01,0.53
+GMB,Gambia,Buildings & other,0.05,0.53
+GMB,Gambia,Electricity & heat,0.11,0.53
+GMB,Gambia,Industrial processes,0.01,0.53
+GMB,Gambia,Industry (fuel use),0.07,0.53
+GMB,Gambia,Road transport,0.29,0.53
+GNB,Guinea-Bissau,"Aviation, shipping & rail",0.01,0.35
+GNB,Guinea-Bissau,Buildings & other,0.03,0.35
+GNB,Guinea-Bissau,Electricity & heat,0.07,0.35
+GNB,Guinea-Bissau,Industrial processes,0.0,0.35
+GNB,Guinea-Bissau,Industry (fuel use),0.05,0.35
+GNB,Guinea-Bissau,Road transport,0.19,0.35
+GNQ,Equatorial Guinea,"Aviation, shipping & rail",0.01,5.16
+GNQ,Equatorial Guinea,Buildings & other,0.12,5.16
+GNQ,Equatorial Guinea,Electricity & heat,0.72,5.16
+GNQ,Equatorial Guinea,Fuel extraction & refining,1.63,5.16
+GNQ,Equatorial Guinea,Industrial processes,0.78,5.16
+GNQ,Equatorial Guinea,Industry (fuel use),1.4,5.16
+GNQ,Equatorial Guinea,Road transport,0.5,5.16
+GRC,Greece,Agriculture & waste,0.2,52.66
+GRC,Greece,"Aviation, shipping & rail",3.05,52.66
+GRC,Greece,Buildings & other,5.3,52.66
+GRC,Greece,Electricity & heat,15.62,52.66
+GRC,Greece,Fuel extraction & refining,4.32,52.66
+GRC,Greece,Industrial processes,3.95,52.66
+GRC,Greece,Industry (fuel use),4.18,52.66
+GRC,Greece,Road transport,16.04,52.66
+GRD,Grenada,"Aviation, shipping & rail",0.01,0.18
+GRD,Grenada,Buildings & other,0.02,0.18
+GRD,Grenada,Electricity & heat,0.09,0.18
+GRD,Grenada,Industrial processes,0.0,0.18
+GRD,Grenada,Industry (fuel use),0.01,0.18
+GRD,Grenada,Road transport,0.05,0.18
+GRL,Greenland,Agriculture & waste,0.0,0.6
+GRL,Greenland,"Aviation, shipping & rail",0.05,0.6
+GRL,Greenland,Buildings & other,0.33,0.6
+GRL,Greenland,Electricity & heat,0.1,0.6
+GRL,Greenland,Fuel extraction & refining,0.01,0.6
+GRL,Greenland,Industrial processes,0.0,0.6
+GRL,Greenland,Industry (fuel use),0.08,0.6
+GRL,Greenland,Road transport,0.04,0.6
+GTM,Guatemala,Agriculture & waste,0.41,20.95
+GTM,Guatemala,"Aviation, shipping & rail",0.03,20.95
+GTM,Guatemala,Buildings & other,1.37,20.95
+GTM,Guatemala,Electricity & heat,3.48,20.95
+GTM,Guatemala,Fuel extraction & refining,0.21,20.95
+GTM,Guatemala,Industrial processes,1.86,20.95
+GTM,Guatemala,Industry (fuel use),2.45,20.95
+GTM,Guatemala,Road transport,11.14,20.95
+GUY,Guyana,Agriculture & waste,0.0,4.54
+GUY,Guyana,"Aviation, shipping & rail",0.05,4.54
+GUY,Guyana,Buildings & other,0.23,4.54
+GUY,Guyana,Electricity & heat,1.11,4.54
+GUY,Guyana,Fuel extraction & refining,0.35,4.54
+GUY,Guyana,Industrial processes,0.43,4.54
+GUY,Guyana,Industry (fuel use),0.86,4.54
+GUY,Guyana,Road transport,1.51,4.54
+HKG,Hong Kong,Agriculture & waste,0.01,32.29
+HKG,Hong Kong,"Aviation, shipping & rail",0.52,32.29
+HKG,Hong Kong,Buildings & other,1.62,32.29
+HKG,Hong Kong,Electricity & heat,21.76,32.29
+HKG,Hong Kong,Fuel extraction & refining,0.4,32.29
+HKG,Hong Kong,Industrial processes,0.6,32.29
+HKG,Hong Kong,Industry (fuel use),0.5,32.29
+HKG,Hong Kong,Road transport,6.87,32.29
+HND,Honduras,Agriculture & waste,0.03,12.6
+HND,Honduras,"Aviation, shipping & rail",0.04,12.6
+HND,Honduras,Buildings & other,0.68,12.6
+HND,Honduras,Electricity & heat,4.26,12.6
+HND,Honduras,Fuel extraction & refining,0.02,12.6
+HND,Honduras,Industrial processes,0.74,12.6
+HND,Honduras,Industry (fuel use),1.47,12.6
+HND,Honduras,Road transport,5.37,12.6
+HRV,Croatia,Agriculture & waste,0.08,18.28
+HRV,Croatia,"Aviation, shipping & rail",0.24,18.28
+HRV,Croatia,Buildings & other,2.67,18.28
+HRV,Croatia,Electricity & heat,2.27,18.28
+HRV,Croatia,Fuel extraction & refining,0.92,18.28
+HRV,Croatia,Industrial processes,1.76,18.28
+HRV,Croatia,Industry (fuel use),2.3,18.28
+HRV,Croatia,Road transport,8.04,18.28
+HTI,Haiti,"Aviation, shipping & rail",0.0,1.98
+HTI,Haiti,Buildings & other,0.1,1.98
+HTI,Haiti,Electricity & heat,0.48,1.98
+HTI,Haiti,Fuel extraction & refining,0.02,1.98
+HTI,Haiti,Industrial processes,0.29,1.98
+HTI,Haiti,Industry (fuel use),0.23,1.98
+HTI,Haiti,Road transport,0.85,1.98
+HUN,Hungary,Agriculture & waste,0.09,41.7
+HUN,Hungary,"Aviation, shipping & rail",0.16,41.7
+HUN,Hungary,Buildings & other,9.08,41.7
+HUN,Hungary,Electricity & heat,7.72,41.7
+HUN,Hungary,Fuel extraction & refining,2.17,41.7
+HUN,Hungary,Industrial processes,3.67,41.7
+HUN,Hungary,Industry (fuel use),5.42,41.7
+HUN,Hungary,Road transport,13.39,41.7
+IDN,Indonesia,Agriculture & waste,5.65,812.76
+IDN,Indonesia,"Aviation, shipping & rail",15.69,812.76
+IDN,Indonesia,Buildings & other,32.15,812.76
+IDN,Indonesia,Electricity & heat,372.58,812.76
+IDN,Indonesia,Fuel extraction & refining,68.71,812.76
+IDN,Indonesia,Industrial processes,60.91,812.76
+IDN,Indonesia,Industry (fuel use),123.71,812.76
+IDN,Indonesia,Road transport,133.36,812.76
+IND,India,Agriculture & waste,31.66,3250.62
+IND,India,"Aviation, shipping & rail",30.41,3250.62
+IND,India,Buildings & other,201.96,3250.62
+IND,India,Electricity & heat,1601.08,3250.62
+IND,India,Fuel extraction & refining,112.05,3250.62
+IND,India,Industrial processes,260.47,3250.62
+IND,India,Industry (fuel use),672.22,3250.62
+IND,India,Road transport,340.76,3250.62
+IRL,Ireland,Agriculture & waste,0.13,31.96
+IRL,Ireland,"Aviation, shipping & rail",0.45,31.96
+IRL,Ireland,Buildings & other,7.64,31.96
+IRL,Ireland,Electricity & heat,7.22,31.96
+IRL,Ireland,Fuel extraction & refining,0.37,31.96
+IRL,Ireland,Industrial processes,1.77,31.96
+IRL,Ireland,Industry (fuel use),3.57,31.96
+IRL,Ireland,Road transport,10.8,31.96
+IRN,Iran,Agriculture & waste,1.79,889.24
+IRN,Iran,"Aviation, shipping & rail",4.56,889.24
+IRN,Iran,Buildings & other,188.84,889.24
+IRN,Iran,Electricity & heat,223.5,889.24
+IRN,Iran,Fuel extraction & refining,119.16,889.24
+IRN,Iran,Industrial processes,68.5,889.24
+IRN,Iran,Industry (fuel use),136.05,889.24
+IRN,Iran,Road transport,146.84,889.24
+IRQ,Iraq,Agriculture & waste,0.82,251.84
+IRQ,Iraq,"Aviation, shipping & rail",0.02,251.84
+IRQ,Iraq,Buildings & other,16.73,251.84
+IRQ,Iraq,Electricity & heat,97.17,251.84
+IRQ,Iraq,Fuel extraction & refining,64.2,251.84
+IRQ,Iraq,Industrial processes,16.48,251.84
+IRQ,Iraq,Industry (fuel use),14.21,251.84
+IRQ,Iraq,Road transport,42.21,251.84
+ISL,Iceland,Agriculture & waste,0.0,3.18
+ISL,Iceland,"Aviation, shipping & rail",0.03,3.18
+ISL,Iceland,Buildings & other,0.6,3.18
+ISL,Iceland,Electricity & heat,0.01,3.18
+ISL,Iceland,Industrial processes,1.59,3.18
+ISL,Iceland,Industry (fuel use),0.07,3.18
+ISL,Iceland,Road transport,0.87,3.18
+ISR,Israel,Agriculture & waste,0.05,59.94
+ISR,Israel,"Aviation, shipping & rail",0.22,59.94
+ISR,Israel,Buildings & other,2.68,59.94
+ISR,Israel,Electricity & heat,30.34,59.94
+ISR,Israel,Fuel extraction & refining,1.92,59.94
+ISR,Israel,Industrial processes,3.04,59.94
+ISR,Israel,Industry (fuel use),3.44,59.94
+ISR,Israel,Road transport,18.26,59.94
+ITA,Italy,Agriculture & waste,0.8,293.78
+ITA,Italy,"Aviation, shipping & rail",4.46,293.78
+ITA,Italy,Buildings & other,56.29,293.78
+ITA,Italy,Electricity & heat,62.44,293.78
+ITA,Italy,Fuel extraction & refining,12.45,293.78
+ITA,Italy,Industrial processes,17.73,293.78
+ITA,Italy,Industry (fuel use),35.95,293.78
+ITA,Italy,Road transport,103.65,293.78
+JAM,Jamaica,Agriculture & waste,0.0,8.01
+JAM,Jamaica,"Aviation, shipping & rail",0.05,8.01
+JAM,Jamaica,Buildings & other,0.71,8.01
+JAM,Jamaica,Electricity & heat,3.32,8.01
+JAM,Jamaica,Fuel extraction & refining,0.03,8.01
+JAM,Jamaica,Industrial processes,0.49,8.01
+JAM,Jamaica,Industry (fuel use),0.72,8.01
+JAM,Jamaica,Road transport,2.69,8.01
+JOR,Jordan,Agriculture & waste,0.02,27.45
+JOR,Jordan,"Aviation, shipping & rail",0.04,27.45
+JOR,Jordan,Buildings & other,2.79,27.45
+JOR,Jordan,Electricity & heat,12.97,27.45
+JOR,Jordan,Fuel extraction & refining,0.33,27.45
+JOR,Jordan,Industrial processes,1.8,27.45
+JOR,Jordan,Industry (fuel use),2.12,27.45
+JOR,Jordan,Road transport,7.38,27.45
+JPN,Japan,Agriculture & waste,4.23,991.74
+JPN,Japan,"Aviation, shipping & rail",19.97,991.74
+JPN,Japan,Buildings & other,102.67,991.74
+JPN,Japan,Electricity & heat,442.89,991.74
+JPN,Japan,Fuel extraction & refining,42.91,991.74
+JPN,Japan,Industrial processes,51.95,991.74
+JPN,Japan,Industry (fuel use),164.14,991.74
+JPN,Japan,Road transport,162.97,991.74
+KAZ,Kazakhstan,Agriculture & waste,0.55,264.99
+KAZ,Kazakhstan,"Aviation, shipping & rail",5.25,264.99
+KAZ,Kazakhstan,Buildings & other,38.69,264.99
+KAZ,Kazakhstan,Electricity & heat,130.96,264.99
+KAZ,Kazakhstan,Fuel extraction & refining,22.45,264.99
+KAZ,Kazakhstan,Industrial processes,15.8,264.99
+KAZ,Kazakhstan,Industry (fuel use),25.01,264.99
+KAZ,Kazakhstan,Road transport,26.26,264.99
+KEN,Kenya,Agriculture & waste,0.2,22.86
+KEN,Kenya,"Aviation, shipping & rail",0.39,22.86
+KEN,Kenya,Buildings & other,2.07,22.86
+KEN,Kenya,Electricity & heat,1.09,22.86
+KEN,Kenya,Industrial processes,4.1,22.86
+KEN,Kenya,Industry (fuel use),4.99,22.86
+KEN,Kenya,Road transport,10.03,22.86
+KGZ,Kyrgyzstan,Agriculture & waste,0.1,12.47
+KGZ,Kyrgyzstan,"Aviation, shipping & rail",0.02,12.47
+KGZ,Kyrgyzstan,Buildings & other,6.17,12.47
+KGZ,Kyrgyzstan,Electricity & heat,3.05,12.47
+KGZ,Kyrgyzstan,Fuel extraction & refining,0.08,12.47
+KGZ,Kyrgyzstan,Industrial processes,1.34,12.47
+KGZ,Kyrgyzstan,Industry (fuel use),0.51,12.47
+KGZ,Kyrgyzstan,Road transport,1.2,12.47
+KHM,Cambodia,Agriculture & waste,0.01,24.65
+KHM,Cambodia,"Aviation, shipping & rail",1.39,24.65
+KHM,Cambodia,Buildings & other,1.74,24.65
+KHM,Cambodia,Electricity & heat,8.62,24.65
+KHM,Cambodia,Fuel extraction & refining,0.0,24.65
+KHM,Cambodia,Industrial processes,3.67,24.65
+KHM,Cambodia,Industry (fuel use),3.04,24.65
+KHM,Cambodia,Road transport,6.18,24.65
+KIR,Kiribati,"Aviation, shipping & rail",0.01,0.07
+KIR,Kiribati,Buildings & other,0.01,0.07
+KIR,Kiribati,Electricity & heat,0.02,0.07
+KIR,Kiribati,Fuel extraction & refining,0.0,0.07
+KIR,Kiribati,Industrial processes,0.0,0.07
+KIR,Kiribati,Industry (fuel use),0.01,0.07
+KIR,Kiribati,Road transport,0.03,0.07
+KNA,Saint Kitts and Nevis,"Aviation, shipping & rail",0.01,0.12
+KNA,Saint Kitts and Nevis,Buildings & other,0.01,0.12
+KNA,Saint Kitts and Nevis,Electricity & heat,0.06,0.12
+KNA,Saint Kitts and Nevis,Industrial processes,0.0,0.12
+KNA,Saint Kitts and Nevis,Industry (fuel use),0.01,0.12
+KNA,Saint Kitts and Nevis,Road transport,0.04,0.12
+KOR,South Korea,Agriculture & waste,4.83,607.2
+KOR,South Korea,"Aviation, shipping & rail",2.61,607.2
+KOR,South Korea,Buildings & other,45.68,607.2
+KOR,South Korea,Electricity & heat,277.87,607.2
+KOR,South Korea,Fuel extraction & refining,55.27,607.2
+KOR,South Korea,Industrial processes,53.63,607.2
+KOR,South Korea,Industry (fuel use),65.93,607.2
+KOR,South Korea,Road transport,101.39,607.2
+KWT,Kuwait,Agriculture & waste,0.0,116.01
+KWT,Kuwait,Buildings & other,8.24,116.01
+KWT,Kuwait,Electricity & heat,52.81,116.01
+KWT,Kuwait,Fuel extraction & refining,20.82,116.01
+KWT,Kuwait,Industrial processes,7.75,116.01
+KWT,Kuwait,Industry (fuel use),9.15,116.01
+KWT,Kuwait,Road transport,17.24,116.01
+LAO,Laos,Agriculture & waste,0.02,23.12
+LAO,Laos,"Aviation, shipping & rail",0.0,23.12
+LAO,Laos,Buildings & other,0.09,23.12
+LAO,Laos,Electricity & heat,15.56,23.12
+LAO,Laos,Fuel extraction & refining,0.02,23.12
+LAO,Laos,Industrial processes,2.95,23.12
+LAO,Laos,Industry (fuel use),1.75,23.12
+LAO,Laos,Road transport,2.74,23.12
+LBN,Lebanon,Agriculture & waste,0.03,12.46
+LBN,Lebanon,Buildings & other,0.72,12.46
+LBN,Lebanon,Electricity & heat,3.15,12.46
+LBN,Lebanon,Industrial processes,1.0,12.46
+LBN,Lebanon,Industry (fuel use),0.91,12.46
+LBN,Lebanon,Road transport,6.66,12.46
+LBR,Liberia,"Aviation, shipping & rail",0.01,0.9
+LBR,Liberia,Buildings & other,0.06,0.9
+LBR,Liberia,Electricity & heat,0.14,0.9
+LBR,Liberia,Industrial processes,0.21,0.9
+LBR,Liberia,Industry (fuel use),0.09,0.9
+LBR,Liberia,Road transport,0.38,0.9
+LBY,Libya,Agriculture & waste,0.04,73.44
+LBY,Libya,"Aviation, shipping & rail",0.04,73.44
+LBY,Libya,Buildings & other,3.63,73.44
+LBY,Libya,Electricity & heat,23.33,73.44
+LBY,Libya,Fuel extraction & refining,19.23,73.44
+LBY,Libya,Industrial processes,4.07,73.44
+LBY,Libya,Industry (fuel use),3.66,73.44
+LBY,Libya,Road transport,19.44,73.44
+LCA,Saint Lucia,Agriculture & waste,0.0,0.29
+LCA,Saint Lucia,"Aviation, shipping & rail",0.02,0.29
+LCA,Saint Lucia,Buildings & other,0.03,0.29
+LCA,Saint Lucia,Electricity & heat,0.14,0.29
+LCA,Saint Lucia,Industrial processes,0.0,0.29
+LCA,Saint Lucia,Industry (fuel use),0.02,0.29
+LCA,Saint Lucia,Road transport,0.08,0.29
+LKA,Sri Lanka,Agriculture & waste,0.45,19.05
+LKA,Sri Lanka,"Aviation, shipping & rail",0.16,19.05
+LKA,Sri Lanka,Buildings & other,1.11,19.05
+LKA,Sri Lanka,Electricity & heat,8.27,19.05
+LKA,Sri Lanka,Fuel extraction & refining,0.03,19.05
+LKA,Sri Lanka,Industrial processes,0.27,19.05
+LKA,Sri Lanka,Industry (fuel use),0.82,19.05
+LKA,Sri Lanka,Road transport,7.94,19.05
+LSO,Lesotho,"Aviation, shipping & rail",0.02,0.81
+LSO,Lesotho,Buildings & other,0.07,0.81
+LSO,Lesotho,Electricity & heat,0.17,0.81
+LSO,Lesotho,Industrial processes,0.01,0.81
+LSO,Lesotho,Industry (fuel use),0.11,0.81
+LSO,Lesotho,Road transport,0.45,0.81
+LTU,Lithuania,Agriculture & waste,0.44,12.76
+LTU,Lithuania,"Aviation, shipping & rail",0.14,12.76
+LTU,Lithuania,Buildings & other,1.23,12.76
+LTU,Lithuania,Electricity & heat,1.02,12.76
+LTU,Lithuania,Fuel extraction & refining,1.43,12.76
+LTU,Lithuania,Industrial processes,1.68,12.76
+LTU,Lithuania,Industry (fuel use),1.11,12.76
+LTU,Lithuania,Road transport,5.7,12.76
+LUX,Luxembourg,"Aviation, shipping & rail",0.01,6.46
+LUX,Luxembourg,Buildings & other,1.4,6.46
+LUX,Luxembourg,Electricity & heat,0.15,6.46
+LUX,Luxembourg,Industrial processes,0.27,6.46
+LUX,Luxembourg,Industry (fuel use),0.61,6.46
+LUX,Luxembourg,Road transport,4.02,6.46
+LVA,Latvia,Agriculture & waste,0.18,6.49
+LVA,Latvia,"Aviation, shipping & rail",0.05,6.49
+LVA,Latvia,Buildings & other,1.32,6.49
+LVA,Latvia,Electricity & heat,1.1,6.49
+LVA,Latvia,Fuel extraction & refining,0.02,6.49
+LVA,Latvia,Industrial processes,0.52,6.49
+LVA,Latvia,Industry (fuel use),0.58,6.49
+LVA,Latvia,Road transport,2.72,6.49
+MAC,Macao,Agriculture & waste,0.0,1.8
+MAC,Macao,"Aviation, shipping & rail",0.14,1.8
+MAC,Macao,Buildings & other,0.19,1.8
+MAC,Macao,Electricity & heat,0.45,1.8
+MAC,Macao,Fuel extraction & refining,0.18,1.8
+MAC,Macao,Industrial processes,0.0,1.8
+MAC,Macao,Industry (fuel use),0.22,1.8
+MAC,Macao,Road transport,0.6,1.8
+MAR,Morocco,Agriculture & waste,0.6,72.24
+MAR,Morocco,"Aviation, shipping & rail",0.15,72.24
+MAR,Morocco,Buildings & other,11.6,72.24
+MAR,Morocco,Electricity & heat,28.34,72.24
+MAR,Morocco,Fuel extraction & refining,0.1,72.24
+MAR,Morocco,Industrial processes,4.9,72.24
+MAR,Morocco,Industry (fuel use),7.12,72.24
+MAR,Morocco,Road transport,19.43,72.24
+MDA,Moldova,Agriculture & waste,0.11,8.2
+MDA,Moldova,"Aviation, shipping & rail",0.02,8.2
+MDA,Moldova,Buildings & other,1.39,8.2
+MDA,Moldova,Electricity & heat,3.42,8.2
+MDA,Moldova,Fuel extraction & refining,0.04,8.2
+MDA,Moldova,Industrial processes,0.51,8.2
+MDA,Moldova,Industry (fuel use),0.35,8.2
+MDA,Moldova,Road transport,2.37,8.2
+MDG,Madagascar,"Aviation, shipping & rail",0.13,3.99
+MDG,Madagascar,Buildings & other,0.42,3.99
+MDG,Madagascar,Electricity & heat,1.37,3.99
+MDG,Madagascar,Industrial processes,0.12,3.99
+MDG,Madagascar,Industry (fuel use),0.61,3.99
+MDG,Madagascar,Road transport,1.33,3.99
+MDV,Maldives,Agriculture & waste,0.0,1.75
+MDV,Maldives,"Aviation, shipping & rail",0.17,1.75
+MDV,Maldives,Buildings & other,0.22,1.75
+MDV,Maldives,Electricity & heat,0.41,1.75
+MDV,Maldives,Fuel extraction & refining,0.0,1.75
+MDV,Maldives,Industrial processes,0.0,1.75
+MDV,Maldives,Industry (fuel use),0.24,1.75
+MDV,Maldives,Road transport,0.7,1.75
+MEX,Mexico,Agriculture & waste,4.14,524.99
+MEX,Mexico,"Aviation, shipping & rail",10.33,524.99
+MEX,Mexico,Buildings & other,32.62,524.99
+MEX,Mexico,Electricity & heat,159.15,524.99
+MEX,Mexico,Fuel extraction & refining,70.82,524.99
+MEX,Mexico,Industrial processes,55.24,524.99
+MEX,Mexico,Industry (fuel use),46.28,524.99
+MEX,Mexico,Road transport,146.4,524.99
+MHL,Marshall Islands,Industrial processes,0.0,0.0
+MKD,North Macedonia,Agriculture & waste,0.04,7.21
+MKD,North Macedonia,"Aviation, shipping & rail",0.0,7.21
+MKD,North Macedonia,Buildings & other,0.17,7.21
+MKD,North Macedonia,Electricity & heat,3.37,7.21
+MKD,North Macedonia,Fuel extraction & refining,0.01,7.21
+MKD,North Macedonia,Industrial processes,0.37,7.21
+MKD,North Macedonia,Industry (fuel use),0.63,7.21
+MKD,North Macedonia,Road transport,2.62,7.21
+MLI,Mali,Agriculture & waste,0.18,7.63
+MLI,Mali,"Aviation, shipping & rail",0.13,7.63
+MLI,Mali,Buildings & other,0.59,7.63
+MLI,Mali,Electricity & heat,1.38,7.63
+MLI,Mali,Industrial processes,0.71,7.63
+MLI,Mali,Industry (fuel use),0.91,7.63
+MLI,Mali,Road transport,3.73,7.63
+MLT,Malta,Agriculture & waste,0.0,1.75
+MLT,Malta,"Aviation, shipping & rail",0.1,1.75
+MLT,Malta,Buildings & other,0.13,1.75
+MLT,Malta,Electricity & heat,0.75,1.75
+MLT,Malta,Fuel extraction & refining,0.0,1.75
+MLT,Malta,Industrial processes,0.01,1.75
+MLT,Malta,Industry (fuel use),0.07,1.75
+MLT,Malta,Road transport,0.69,1.75
+MMR,Myanmar,Agriculture & waste,2.77,35.61
+MMR,Myanmar,"Aviation, shipping & rail",0.37,35.61
+MMR,Myanmar,Buildings & other,1.73,35.61
+MMR,Myanmar,Electricity & heat,6.59,35.61
+MMR,Myanmar,Fuel extraction & refining,0.85,35.61
+MMR,Myanmar,Industrial processes,3.67,35.61
+MMR,Myanmar,Industry (fuel use),5.32,35.61
+MMR,Myanmar,Road transport,14.3,35.61
+MNG,Mongolia,Agriculture & waste,0.0,29.23
+MNG,Mongolia,"Aviation, shipping & rail",0.98,29.23
+MNG,Mongolia,Buildings & other,3.29,29.23
+MNG,Mongolia,Electricity & heat,17.34,29.23
+MNG,Mongolia,Fuel extraction & refining,1.18,29.23
+MNG,Mongolia,Industrial processes,0.71,29.23
+MNG,Mongolia,Industry (fuel use),2.99,29.23
+MNG,Mongolia,Road transport,2.74,29.23
+MOZ,Mozambique,"Aviation, shipping & rail",0.26,9.42
+MOZ,Mozambique,Buildings & other,0.28,9.42
+MOZ,Mozambique,Electricity & heat,1.35,9.42
+MOZ,Mozambique,Fuel extraction & refining,0.81,9.42
+MOZ,Mozambique,Industrial processes,1.88,9.42
+MOZ,Mozambique,Industry (fuel use),1.05,9.42
+MOZ,Mozambique,Road transport,3.79,9.42
+MRT,Mauritania,"Aviation, shipping & rail",0.08,4.84
+MRT,Mauritania,Buildings & other,0.39,4.84
+MRT,Mauritania,Electricity & heat,0.91,4.84
+MRT,Mauritania,Industrial processes,0.41,4.84
+MRT,Mauritania,Industry (fuel use),0.6,4.84
+MRT,Mauritania,Road transport,2.45,4.84
+MSR,Montserrat,"Aviation, shipping & rail",0.0,0.01
+MSR,Montserrat,Buildings & other,0.0,0.01
+MSR,Montserrat,Electricity & heat,0.01,0.01
+MSR,Montserrat,Industrial processes,0.0,0.01
+MSR,Montserrat,Industry (fuel use),0.0,0.01
+MSR,Montserrat,Road transport,0.0,0.01
+MUS,Mauritius,Agriculture & waste,0.01,4.28
+MUS,Mauritius,"Aviation, shipping & rail",0.05,4.28
+MUS,Mauritius,Buildings & other,0.23,4.28
+MUS,Mauritius,Electricity & heat,2.52,4.28
+MUS,Mauritius,Industrial processes,0.02,4.28
+MUS,Mauritius,Industry (fuel use),0.34,4.28
+MUS,Mauritius,Road transport,1.12,4.28
+MWI,Malawi,"Aviation, shipping & rail",0.03,5.42
+MWI,Malawi,Buildings & other,0.22,5.42
+MWI,Malawi,Electricity & heat,1.97,5.42
+MWI,Malawi,Fuel extraction & refining,0.03,5.42
+MWI,Malawi,Industrial processes,0.22,5.42
+MWI,Malawi,Industry (fuel use),2.18,5.42
+MWI,Malawi,Road transport,0.78,5.42
+MYS,Malaysia,Agriculture & waste,0.85,295.01
+MYS,Malaysia,"Aviation, shipping & rail",2.16,295.01
+MYS,Malaysia,Buildings & other,7.79,295.01
+MYS,Malaysia,Electricity & heat,121.88,295.01
+MYS,Malaysia,Fuel extraction & refining,42.18,295.01
+MYS,Malaysia,Industrial processes,21.0,295.01
+MYS,Malaysia,Industry (fuel use),35.74,295.01
+MYS,Malaysia,Road transport,63.42,295.01
+NAM,Namibia,"Aviation, shipping & rail",0.06,3.8
+NAM,Namibia,Buildings & other,1.06,3.8
+NAM,Namibia,Electricity & heat,0.06,3.8
+NAM,Namibia,Industrial processes,0.38,3.8
+NAM,Namibia,Industry (fuel use),0.25,3.8
+NAM,Namibia,Road transport,1.99,3.8
+NCL,New Caledonia,"Aviation, shipping & rail",0.22,6.35
+NCL,New Caledonia,Buildings & other,0.29,6.35
+NCL,New Caledonia,Electricity & heat,1.74,6.35
+NCL,New Caledonia,Fuel extraction & refining,0.0,6.35
+NCL,New Caledonia,Industrial processes,0.04,6.35
+NCL,New Caledonia,Industry (fuel use),3.13,6.35
+NCL,New Caledonia,Road transport,0.93,6.35
+NER,Niger,"Aviation, shipping & rail",0.01,4.05
+NER,Niger,Buildings & other,0.24,4.05
+NER,Niger,Electricity & heat,0.86,4.05
+NER,Niger,Fuel extraction & refining,0.13,4.05
+NER,Niger,Industrial processes,0.2,4.05
+NER,Niger,Industry (fuel use),0.36,4.05
+NER,Niger,Road transport,2.26,4.05
+NGA,Nigeria,Agriculture & waste,1.37,131.93
+NGA,Nigeria,"Aviation, shipping & rail",1.06,131.93
+NGA,Nigeria,Buildings & other,5.88,131.93
+NGA,Nigeria,Electricity & heat,17.93,131.93
+NGA,Nigeria,Fuel extraction & refining,21.97,131.93
+NGA,Nigeria,Industrial processes,15.99,131.93
+NGA,Nigeria,Industry (fuel use),11.1,131.93
+NGA,Nigeria,Road transport,56.63,131.93
+NIC,Nicaragua,Agriculture & waste,0.09,6.02
+NIC,Nicaragua,"Aviation, shipping & rail",0.18,6.02
+NIC,Nicaragua,Buildings & other,0.85,6.02
+NIC,Nicaragua,Electricity & heat,1.26,6.02
+NIC,Nicaragua,Fuel extraction & refining,0.32,6.02
+NIC,Nicaragua,Industrial processes,0.43,6.02
+NIC,Nicaragua,Industry (fuel use),0.81,6.02
+NIC,Nicaragua,Road transport,2.08,6.02
+NIU,Niue,Industrial processes,0.0,0.0
+NLD,Netherlands,Agriculture & waste,0.15,119.22
+NLD,Netherlands,"Aviation, shipping & rail",1.13,119.22
+NLD,Netherlands,Buildings & other,22.11,119.22
+NLD,Netherlands,Electricity & heat,31.68,119.22
+NLD,Netherlands,Fuel extraction & refining,10.4,119.22
+NLD,Netherlands,Industrial processes,10.47,119.22
+NLD,Netherlands,Industry (fuel use),19.78,119.22
+NLD,Netherlands,Road transport,23.51,119.22
+NOR,Norway,Agriculture & waste,0.06,39.24
+NOR,Norway,"Aviation, shipping & rail",4.64,39.24
+NOR,Norway,Buildings & other,2.49,39.24
+NOR,Norway,Electricity & heat,1.62,39.24
+NOR,Norway,Fuel extraction & refining,10.39,39.24
+NOR,Norway,Industrial processes,7.35,39.24
+NOR,Norway,Industry (fuel use),5.37,39.24
+NOR,Norway,Road transport,7.33,39.24
+NPL,Nepal,Agriculture & waste,0.2,13.67
+NPL,Nepal,"Aviation, shipping & rail",0.08,13.67
+NPL,Nepal,Buildings & other,1.87,13.67
+NPL,Nepal,Electricity & heat,0.0,13.67
+NPL,Nepal,Fuel extraction & refining,0.0,13.67
+NPL,Nepal,Industrial processes,2.22,13.67
+NPL,Nepal,Industry (fuel use),5.52,13.67
+NPL,Nepal,Road transport,3.78,13.67
+NRU,Nauru,Industrial processes,0.0,0.0
+NZL,New Zealand,Agriculture & waste,0.75,30.59
+NZL,New Zealand,"Aviation, shipping & rail",1.13,30.59
+NZL,New Zealand,Buildings & other,2.9,30.59
+NZL,New Zealand,Electricity & heat,4.06,30.59
+NZL,New Zealand,Fuel extraction & refining,0.67,30.59
+NZL,New Zealand,Industrial processes,1.9,30.59
+NZL,New Zealand,Industry (fuel use),4.96,30.59
+NZL,New Zealand,Road transport,14.21,30.59
+OMN,Oman,"Aviation, shipping & rail",0.14,100.48
+OMN,Oman,Buildings & other,22.43,100.48
+OMN,Oman,Electricity & heat,18.4,100.48
+OMN,Oman,Fuel extraction & refining,16.13,100.48
+OMN,Oman,Industrial processes,15.75,100.48
+OMN,Oman,Industry (fuel use),13.99,100.48
+OMN,Oman,Road transport,13.63,100.48
+PAK,Pakistan,Agriculture & waste,5.5,188.21
+PAK,Pakistan,"Aviation, shipping & rail",1.04,188.21
+PAK,Pakistan,Buildings & other,21.56,188.21
+PAK,Pakistan,Electricity & heat,50.12,188.21
+PAK,Pakistan,Fuel extraction & refining,8.6,188.21
+PAK,Pakistan,Industrial processes,23.49,188.21
+PAK,Pakistan,Industry (fuel use),33.94,188.21
+PAK,Pakistan,Road transport,43.96,188.21
+PAN,Panama,"Aviation, shipping & rail",0.09,12.81
+PAN,Panama,Buildings & other,0.86,12.81
+PAN,Panama,Electricity & heat,3.66,12.81
+PAN,Panama,Fuel extraction & refining,0.0,12.81
+PAN,Panama,Industrial processes,0.66,12.81
+PAN,Panama,Industry (fuel use),1.75,12.81
+PAN,Panama,Road transport,5.79,12.81
+PER,Peru,Agriculture & waste,0.88,67.8
+PER,Peru,"Aviation, shipping & rail",0.87,67.8
+PER,Peru,Buildings & other,5.25,67.8
+PER,Peru,Electricity & heat,15.02,67.8
+PER,Peru,Fuel extraction & refining,3.39,67.8
+PER,Peru,Industrial processes,5.2,67.8
+PER,Peru,Industry (fuel use),10.12,67.8
+PER,Peru,Road transport,27.08,67.8
+PHL,Philippines,Agriculture & waste,1.73,177.65
+PHL,Philippines,"Aviation, shipping & rail",4.07,177.65
+PHL,Philippines,Buildings & other,10.88,177.65
+PHL,Philippines,Electricity & heat,97.68,177.65
+PHL,Philippines,Fuel extraction & refining,1.95,177.65
+PHL,Philippines,Industrial processes,13.21,177.65
+PHL,Philippines,Industry (fuel use),13.27,177.65
+PHL,Philippines,Road transport,34.86,177.65
+PLW,Palau,Agriculture & waste,0.0,1.5
+PLW,Palau,"Aviation, shipping & rail",0.12,1.5
+PLW,Palau,Buildings & other,0.11,1.5
+PLW,Palau,Electricity & heat,0.5,1.5
+PLW,Palau,Fuel extraction & refining,0.0,1.5
+PLW,Palau,Industrial processes,0.0,1.5
+PLW,Palau,Industry (fuel use),0.1,1.5
+PLW,Palau,Road transport,0.66,1.5
+PNG,Papua New Guinea,Agriculture & waste,0.0,7.8
+PNG,Papua New Guinea,"Aviation, shipping & rail",0.56,7.8
+PNG,Papua New Guinea,Buildings & other,0.76,7.8
+PNG,Papua New Guinea,Electricity & heat,1.96,7.8
+PNG,Papua New Guinea,Fuel extraction & refining,1.11,7.8
+PNG,Papua New Guinea,Industrial processes,0.13,7.8
+PNG,Papua New Guinea,Industry (fuel use),0.91,7.8
+PNG,Papua New Guinea,Road transport,2.35,7.8
+POL,Poland,Agriculture & waste,1.8,274.7
+POL,Poland,"Aviation, shipping & rail",0.49,274.7
+POL,Poland,Buildings & other,39.33,274.7
+POL,Poland,Electricity & heat,112.26,274.7
+POL,Poland,Fuel extraction & refining,10.8,274.7
+POL,Poland,Industrial processes,16.89,274.7
+POL,Poland,Industry (fuel use),26.25,274.7
+POL,Poland,Road transport,66.88,274.7
+PRK,North Korea,Agriculture & waste,0.03,66.08
+PRK,North Korea,"Aviation, shipping & rail",4.05,66.08
+PRK,North Korea,Buildings & other,11.96,66.08
+PRK,North Korea,Electricity & heat,12.03,66.08
+PRK,North Korea,Fuel extraction & refining,0.27,66.08
+PRK,North Korea,Industrial processes,3.07,66.08
+PRK,North Korea,Industry (fuel use),33.58,66.08
+PRK,North Korea,Road transport,1.08,66.08
+PRT,Portugal,Agriculture & waste,0.06,36.13
+PRT,Portugal,"Aviation, shipping & rail",0.89,36.13
+PRT,Portugal,Buildings & other,3.73,36.13
+PRT,Portugal,Electricity & heat,3.72,36.13
+PRT,Portugal,Fuel extraction & refining,2.11,36.13
+PRT,Portugal,Industrial processes,4.07,36.13
+PRT,Portugal,Industry (fuel use),5.06,36.13
+PRT,Portugal,Road transport,16.49,36.13
+PRY,Paraguay,Agriculture & waste,0.04,8.21
+PRY,Paraguay,"Aviation, shipping & rail",0.05,8.21
+PRY,Paraguay,Buildings & other,0.2,8.21
+PRY,Paraguay,Electricity & heat,0.0,8.21
+PRY,Paraguay,Industrial processes,0.79,8.21
+PRY,Paraguay,Industry (fuel use),0.45,8.21
+PRY,Paraguay,Road transport,6.67,8.21
+PYF,French Polynesia,"Aviation, shipping & rail",0.12,1.19
+PYF,French Polynesia,Buildings & other,0.15,1.19
+PYF,French Polynesia,Electricity & heat,0.28,1.19
+PYF,French Polynesia,Fuel extraction & refining,0.0,1.19
+PYF,French Polynesia,Industrial processes,0.0,1.19
+PYF,French Polynesia,Industry (fuel use),0.16,1.19
+PYF,French Polynesia,Road transport,0.48,1.19
+QAT,Qatar,Agriculture & waste,0.0,137.85
+QAT,Qatar,Buildings & other,6.63,137.85
+QAT,Qatar,Electricity & heat,26.87,137.85
+QAT,Qatar,Fuel extraction & refining,51.64,137.85
+QAT,Qatar,Industrial processes,16.37,137.85
+QAT,Qatar,Industry (fuel use),24.34,137.85
+QAT,Qatar,Road transport,12.02,137.85
+ROU,Romania,Agriculture & waste,0.84,70.29
+ROU,Romania,"Aviation, shipping & rail",0.57,70.29
+ROU,Romania,Buildings & other,11.67,70.29
+ROU,Romania,Electricity & heat,14.85,70.29
+ROU,Romania,Fuel extraction & refining,3.53,70.29
+ROU,Romania,Industrial processes,7.06,70.29
+ROU,Romania,Industry (fuel use),10.04,70.29
+ROU,Romania,Road transport,21.72,70.29
+RUS,Russia,Agriculture & waste,7.26,2015.41
+RUS,Russia,"Aviation, shipping & rail",108.72,2015.41
+RUS,Russia,Buildings & other,223.48,2015.41
+RUS,Russia,Electricity & heat,895.99,2015.41
+RUS,Russia,Fuel extraction & refining,213.73,2015.41
+RUS,Russia,Industrial processes,113.93,2015.41
+RUS,Russia,Industry (fuel use),282.1,2015.41
+RUS,Russia,Road transport,170.2,2015.41
+RWA,Rwanda,Agriculture & waste,0.0,2.16
+RWA,Rwanda,"Aviation, shipping & rail",0.01,2.16
+RWA,Rwanda,Buildings & other,0.19,2.16
+RWA,Rwanda,Electricity & heat,0.42,2.16
+RWA,Rwanda,Fuel extraction & refining,0.02,2.16
+RWA,Rwanda,Industrial processes,0.35,2.16
+RWA,Rwanda,Industry (fuel use),0.37,2.16
+RWA,Rwanda,Road transport,0.8,2.16
+SAU,Saudi Arabia,Agriculture & waste,0.22,647.39
+SAU,Saudi Arabia,"Aviation, shipping & rail",2.27,647.39
+SAU,Saudi Arabia,Buildings & other,23.43,647.39
+SAU,Saudi Arabia,Electricity & heat,274.8,647.39
+SAU,Saudi Arabia,Fuel extraction & refining,36.01,647.39
+SAU,Saudi Arabia,Industrial processes,87.66,647.39
+SAU,Saudi Arabia,Industry (fuel use),79.65,647.39
+SAU,Saudi Arabia,Road transport,143.37,647.39
+SDN,Sudan,Agriculture & waste,0.02,14.9
+SDN,Sudan,"Aviation, shipping & rail",0.14,14.9
+SDN,Sudan,Buildings & other,0.81,14.9
+SDN,Sudan,Electricity & heat,2.38,14.9
+SDN,Sudan,Fuel extraction & refining,0.38,14.9
+SDN,Sudan,Industrial processes,1.04,14.9
+SDN,Sudan,Industry (fuel use),0.8,14.9
+SDN,Sudan,Road transport,9.34,14.9
+SEN,Senegal,Agriculture & waste,0.03,14.72
+SEN,Senegal,"Aviation, shipping & rail",0.2,14.72
+SEN,Senegal,Buildings & other,0.67,14.72
+SEN,Senegal,Electricity & heat,4.25,14.72
+SEN,Senegal,Fuel extraction & refining,0.18,14.72
+SEN,Senegal,Industrial processes,3.6,14.72
+SEN,Senegal,Industry (fuel use),0.56,14.72
+SEN,Senegal,Road transport,5.23,14.72
+SGP,Singapore,Agriculture & waste,0.25,56.79
+SGP,Singapore,"Aviation, shipping & rail",0.36,56.79
+SGP,Singapore,Buildings & other,0.63,56.79
+SGP,Singapore,Electricity & heat,22.25,56.79
+SGP,Singapore,Fuel extraction & refining,4.25,56.79
+SGP,Singapore,Industrial processes,10.2,56.79
+SGP,Singapore,Industry (fuel use),13.49,56.79
+SGP,Singapore,Road transport,5.36,56.79
+SHN,Saint Helena,Buildings & other,0.0,0.02
+SHN,Saint Helena,Electricity & heat,0.01,0.02
+SHN,Saint Helena,Fuel extraction & refining,0.0,0.02
+SHN,Saint Helena,Industrial processes,0.0,0.02
+SHN,Saint Helena,Industry (fuel use),0.0,0.02
+SHN,Saint Helena,Road transport,0.01,0.02
+SLB,Solomon Islands,Agriculture & waste,0.0,0.29
+SLB,Solomon Islands,"Aviation, shipping & rail",0.03,0.29
+SLB,Solomon Islands,Buildings & other,0.04,0.29
+SLB,Solomon Islands,Electricity & heat,0.07,0.29
+SLB,Solomon Islands,Fuel extraction & refining,0.0,0.29
+SLB,Solomon Islands,Industrial processes,0.0,0.29
+SLB,Solomon Islands,Industry (fuel use),0.04,0.29
+SLB,Solomon Islands,Road transport,0.12,0.29
+SLE,Sierra Leone,"Aviation, shipping & rail",0.03,1.76
+SLE,Sierra Leone,Buildings & other,0.14,1.76
+SLE,Sierra Leone,Electricity & heat,0.33,1.76
+SLE,Sierra Leone,Industrial processes,0.16,1.76
+SLE,Sierra Leone,Industry (fuel use),0.22,1.76
+SLE,Sierra Leone,Road transport,0.89,1.76
+SLV,El Salvador,Agriculture & waste,0.19,9.85
+SLV,El Salvador,"Aviation, shipping & rail",0.0,9.85
+SLV,El Salvador,Buildings & other,0.74,9.85
+SLV,El Salvador,Electricity & heat,1.48,9.85
+SLV,El Salvador,Industrial processes,0.63,9.85
+SLV,El Salvador,Industry (fuel use),2.38,9.85
+SLV,El Salvador,Road transport,4.43,9.85
+SOM,Somalia,"Aviation, shipping & rail",0.03,1.54
+SOM,Somalia,Buildings & other,0.13,1.54
+SOM,Somalia,Electricity & heat,0.31,1.54
+SOM,Somalia,Industrial processes,0.03,1.54
+SOM,Somalia,Industry (fuel use),0.2,1.54
+SOM,Somalia,Road transport,0.83,1.54
+SPM,Saint Pierre and Miquelon,Agriculture & waste,0.0,0.03
+SPM,Saint Pierre and Miquelon,"Aviation, shipping & rail",0.0,0.03
+SPM,Saint Pierre and Miquelon,Buildings & other,0.0,0.03
+SPM,Saint Pierre and Miquelon,Electricity & heat,0.02,0.03
+SPM,Saint Pierre and Miquelon,Industrial processes,0.0,0.03
+SPM,Saint Pierre and Miquelon,Industry (fuel use),0.0,0.03
+SPM,Saint Pierre and Miquelon,Road transport,0.01,0.03
+STP,Sao Tome and Principe,"Aviation, shipping & rail",0.0,0.16
+STP,Sao Tome and Principe,Buildings & other,0.01,0.16
+STP,Sao Tome and Principe,Electricity & heat,0.03,0.16
+STP,Sao Tome and Principe,Industrial processes,0.0,0.16
+STP,Sao Tome and Principe,Industry (fuel use),0.02,0.16
+STP,Sao Tome and Principe,Road transport,0.09,0.16
+SUR,Suriname,Agriculture & waste,0.0,2.56
+SUR,Suriname,"Aviation, shipping & rail",0.39,2.56
+SUR,Suriname,Buildings & other,0.59,2.56
+SUR,Suriname,Electricity & heat,0.82,2.56
+SUR,Suriname,Fuel extraction & refining,0.03,2.56
+SUR,Suriname,Industrial processes,0.02,2.56
+SUR,Suriname,Industry (fuel use),0.11,2.56
+SUR,Suriname,Road transport,0.59,2.56
+SVK,Slovakia,Agriculture & waste,0.13,30.25
+SVK,Slovakia,"Aviation, shipping & rail",0.15,30.25
+SVK,Slovakia,Buildings & other,4.05,30.25
+SVK,Slovakia,Electricity & heat,3.27,30.25
+SVK,Slovakia,Fuel extraction & refining,5.28,30.25
+SVK,Slovakia,Industrial processes,3.61,30.25
+SVK,Slovakia,Industry (fuel use),6.66,30.25
+SVK,Slovakia,Road transport,7.11,30.25
+SVN,Slovenia,Agriculture & waste,0.05,13.33
+SVN,Slovenia,"Aviation, shipping & rail",0.02,13.33
+SVN,Slovenia,Buildings & other,1.22,13.33
+SVN,Slovenia,Electricity & heat,3.6,13.33
+SVN,Slovenia,Fuel extraction & refining,0.01,13.33
+SVN,Slovenia,Industrial processes,1.31,13.33
+SVN,Slovenia,Industry (fuel use),1.6,13.33
+SVN,Slovenia,Road transport,5.52,13.33
+SWE,Sweden,Agriculture & waste,0.18,40.08
+SWE,Sweden,"Aviation, shipping & rail",0.65,40.08
+SWE,Sweden,Buildings & other,2.21,40.08
+SWE,Sweden,Electricity & heat,5.13,40.08
+SWE,Sweden,Fuel extraction & refining,4.65,40.08
+SWE,Sweden,Industrial processes,3.77,40.08
+SWE,Sweden,Industry (fuel use),6.96,40.08
+SWE,Sweden,Road transport,16.52,40.08
+SWZ,Eswatini,Agriculture & waste,0.0,1.21
+SWZ,Eswatini,"Aviation, shipping & rail",0.04,1.21
+SWZ,Eswatini,Buildings & other,0.16,1.21
+SWZ,Eswatini,Electricity & heat,0.04,1.21
+SWZ,Eswatini,Fuel extraction & refining,0.0,1.21
+SWZ,Eswatini,Industrial processes,0.0,1.21
+SWZ,Eswatini,Industry (fuel use),0.33,1.21
+SWZ,Eswatini,Road transport,0.62,1.21
+SYC,Seychelles,"Aviation, shipping & rail",0.02,0.93
+SYC,Seychelles,Buildings & other,0.08,0.93
+SYC,Seychelles,Electricity & heat,0.19,0.93
+SYC,Seychelles,Industrial processes,0.0,0.93
+SYC,Seychelles,Industry (fuel use),0.12,0.93
+SYC,Seychelles,Road transport,0.51,0.93
+SYR,Syria,Agriculture & waste,0.07,29.03
+SYR,Syria,"Aviation, shipping & rail",0.01,29.03
+SYR,Syria,Buildings & other,3.19,29.03
+SYR,Syria,Electricity & heat,13.81,29.03
+SYR,Syria,Fuel extraction & refining,1.69,29.03
+SYR,Syria,Industrial processes,2.22,29.03
+SYR,Syria,Industry (fuel use),2.97,29.03
+SYR,Syria,Road transport,5.08,29.03
+TCA,Turks and Caicos Islands,"Aviation, shipping & rail",0.01,0.21
+TCA,Turks and Caicos Islands,Buildings & other,0.02,0.21
+TCA,Turks and Caicos Islands,Electricity & heat,0.1,0.21
+TCA,Turks and Caicos Islands,Industrial processes,0.0,0.21
+TCA,Turks and Caicos Islands,Industry (fuel use),0.02,0.21
+TCA,Turks and Caicos Islands,Road transport,0.06,0.21
+TCD,Chad,"Aviation, shipping & rail",0.04,2.49
+TCD,Chad,Buildings & other,0.17,2.49
+TCD,Chad,Electricity & heat,0.4,2.49
+TCD,Chad,Fuel extraction & refining,0.25,2.49
+TCD,Chad,Industrial processes,0.31,2.49
+TCD,Chad,Industry (fuel use),0.26,2.49
+TCD,Chad,Road transport,1.07,2.49
+TGO,Togo,Agriculture & waste,0.0,2.79
+TGO,Togo,Buildings & other,0.27,2.79
+TGO,Togo,Electricity & heat,0.3,2.79
+TGO,Togo,Industrial processes,0.69,2.79
+TGO,Togo,Industry (fuel use),0.19,2.79
+TGO,Togo,Road transport,1.33,2.79
+THA,Thailand,Agriculture & waste,2.31,274.24
+THA,Thailand,"Aviation, shipping & rail",3.23,274.24
+THA,Thailand,Buildings & other,13.47,274.24
+THA,Thailand,Electricity & heat,86.75,274.24
+THA,Thailand,Fuel extraction & refining,16.26,274.24
+THA,Thailand,Industrial processes,30.74,274.24
+THA,Thailand,Industry (fuel use),43.6,274.24
+THA,Thailand,Road transport,77.9,274.24
+TJK,Tajikistan,Agriculture & waste,0.09,11.58
+TJK,Tajikistan,"Aviation, shipping & rail",0.0,11.58
+TJK,Tajikistan,Buildings & other,2.92,11.58
+TJK,Tajikistan,Electricity & heat,1.74,11.58
+TJK,Tajikistan,Fuel extraction & refining,0.03,11.58
+TJK,Tajikistan,Industrial processes,2.16,11.58
+TJK,Tajikistan,Industry (fuel use),1.8,11.58
+TJK,Tajikistan,Road transport,2.83,11.58
+TKM,Turkmenistan,Agriculture & waste,1.0,83.58
+TKM,Turkmenistan,"Aviation, shipping & rail",3.47,83.58
+TKM,Turkmenistan,Buildings & other,27.38,83.58
+TKM,Turkmenistan,Electricity & heat,19.92,83.58
+TKM,Turkmenistan,Fuel extraction & refining,8.38,83.58
+TKM,Turkmenistan,Industrial processes,2.16,83.58
+TKM,Turkmenistan,Industry (fuel use),14.08,83.58
+TKM,Turkmenistan,Road transport,7.2,83.58
+TLS,East Timor,Agriculture & waste,0.0,0.65
+TLS,East Timor,"Aviation, shipping & rail",0.06,0.65
+TLS,East Timor,Buildings & other,0.08,0.65
+TLS,East Timor,Electricity & heat,0.14,0.65
+TLS,East Timor,Fuel extraction & refining,0.03,0.65
+TLS,East Timor,Industrial processes,0.0,0.65
+TLS,East Timor,Industry (fuel use),0.08,0.65
+TLS,East Timor,Road transport,0.25,0.65
+TON,Tonga,"Aviation, shipping & rail",0.02,0.19
+TON,Tonga,Buildings & other,0.02,0.19
+TON,Tonga,Electricity & heat,0.05,0.19
+TON,Tonga,Fuel extraction & refining,0.0,0.19
+TON,Tonga,Industrial processes,0.0,0.19
+TON,Tonga,Industry (fuel use),0.03,0.19
+TON,Tonga,Road transport,0.08,0.19
+TTO,Trinidad and Tobago,Agriculture & waste,0.01,27.24
+TTO,Trinidad and Tobago,"Aviation, shipping & rail",0.22,27.24
+TTO,Trinidad and Tobago,Buildings & other,0.48,27.24
+TTO,Trinidad and Tobago,Electricity & heat,5.25,27.24
+TTO,Trinidad and Tobago,Fuel extraction & refining,5.1,27.24
+TTO,Trinidad and Tobago,Industrial processes,12.02,27.24
+TTO,Trinidad and Tobago,Industry (fuel use),1.82,27.24
+TTO,Trinidad and Tobago,Road transport,2.35,27.24
+TUN,Tunisia,Agriculture & waste,0.14,31.63
+TUN,Tunisia,"Aviation, shipping & rail",0.86,31.63
+TUN,Tunisia,Buildings & other,4.46,31.63
+TUN,Tunisia,Electricity & heat,9.44,31.63
+TUN,Tunisia,Fuel extraction & refining,0.78,31.63
+TUN,Tunisia,Industrial processes,3.52,31.63
+TUN,Tunisia,Industry (fuel use),4.95,31.63
+TUN,Tunisia,Road transport,7.47,31.63
+TUR,Turkey,Agriculture & waste,2.96,465.35
+TUR,Turkey,"Aviation, shipping & rail",5.55,465.35
+TUR,Turkey,Buildings & other,68.76,465.35
+TUR,Turkey,Electricity & heat,146.56,465.35
+TUR,Turkey,Fuel extraction & refining,15.5,465.35
+TUR,Turkey,Industrial processes,50.32,465.35
+TUR,Turkey,Industry (fuel use),80.9,465.35
+TUR,Turkey,Road transport,94.79,465.35
+TUV,Tuvalu,Industrial processes,0.0,0.0
+TWN,Taiwan,Agriculture & waste,0.11,280.2
+TWN,Taiwan,"Aviation, shipping & rail",0.6,280.2
+TWN,Taiwan,Buildings & other,11.28,280.2
+TWN,Taiwan,Electricity & heat,162.59,280.2
+TWN,Taiwan,Fuel extraction & refining,20.27,280.2
+TWN,Taiwan,Industrial processes,17.61,280.2
+TWN,Taiwan,Industry (fuel use),29.68,280.2
+TWN,Taiwan,Road transport,38.07,280.2
+TZA,Tanzania,Agriculture & waste,0.29,20.23
+TZA,Tanzania,"Aviation, shipping & rail",0.3,20.23
+TZA,Tanzania,Buildings & other,1.21,20.23
+TZA,Tanzania,Electricity & heat,3.43,20.23
+TZA,Tanzania,Fuel extraction & refining,0.03,20.23
+TZA,Tanzania,Industrial processes,3.3,20.23
+TZA,Tanzania,Industry (fuel use),4.37,20.23
+TZA,Tanzania,Road transport,7.31,20.23
+UGA,Uganda,"Aviation, shipping & rail",0.28,8.78
+UGA,Uganda,Buildings & other,0.69,8.78
+UGA,Uganda,Electricity & heat,0.15,8.78
+UGA,Uganda,Industrial processes,2.25,8.78
+UGA,Uganda,Industry (fuel use),1.7,8.78
+UGA,Uganda,Road transport,3.7,8.78
+UKR,Ukraine,Agriculture & waste,2.01,126.97
+UKR,Ukraine,"Aviation, shipping & rail",1.79,126.97
+UKR,Ukraine,Buildings & other,18.95,126.97
+UKR,Ukraine,Electricity & heat,48.34,126.97
+UKR,Ukraine,Fuel extraction & refining,6.72,126.97
+UKR,Ukraine,Industrial processes,13.93,126.97
+UKR,Ukraine,Industry (fuel use),13.78,126.97
+UKR,Ukraine,Road transport,21.43,126.97
+URY,Uruguay,Agriculture & waste,0.67,8.41
+URY,Uruguay,"Aviation, shipping & rail",0.04,8.41
+URY,Uruguay,Buildings & other,0.91,8.41
+URY,Uruguay,Electricity & heat,0.63,8.41
+URY,Uruguay,Fuel extraction & refining,0.26,8.41
+URY,Uruguay,Industrial processes,0.44,8.41
+URY,Uruguay,Industry (fuel use),1.25,8.41
+URY,Uruguay,Road transport,4.21,8.41
+USA,United States,Agriculture & waste,6.63,4631.03
+USA,United States,"Aviation, shipping & rail",325.59,4631.03
+USA,United States,Buildings & other,532.16,4631.03
+USA,United States,Electricity & heat,1498.48,4631.03
+USA,United States,Fuel extraction & refining,287.04,4631.03
+USA,United States,Industrial processes,158.84,4631.03
+USA,United States,Industry (fuel use),444.16,4631.03
+USA,United States,Road transport,1378.12,4631.03
+UZB,Uzbekistan,Agriculture & waste,1.91,127.99
+UZB,Uzbekistan,"Aviation, shipping & rail",1.34,127.99
+UZB,Uzbekistan,Buildings & other,30.48,127.99
+UZB,Uzbekistan,Electricity & heat,47.14,127.99
+UZB,Uzbekistan,Fuel extraction & refining,8.62,127.99
+UZB,Uzbekistan,Industrial processes,7.2,127.99
+UZB,Uzbekistan,Industry (fuel use),14.48,127.99
+UZB,Uzbekistan,Road transport,16.81,127.99
+VCT,Saint Vincent and the Grenadines,Agriculture & waste,0.0,0.12
+VCT,Saint Vincent and the Grenadines,"Aviation, shipping & rail",0.01,0.12
+VCT,Saint Vincent and the Grenadines,Buildings & other,0.01,0.12
+VCT,Saint Vincent and the Grenadines,Electricity & heat,0.06,0.12
+VCT,Saint Vincent and the Grenadines,Industrial processes,0.0,0.12
+VCT,Saint Vincent and the Grenadines,Industry (fuel use),0.01,0.12
+VCT,Saint Vincent and the Grenadines,Road transport,0.03,0.12
+VEN,Venezuela,Agriculture & waste,6.17,104.47
+VEN,Venezuela,"Aviation, shipping & rail",0.79,104.47
+VEN,Venezuela,Buildings & other,2.65,104.47
+VEN,Venezuela,Electricity & heat,5.17,104.47
+VEN,Venezuela,Fuel extraction & refining,54.76,104.47
+VEN,Venezuela,Industrial processes,5.78,104.47
+VEN,Venezuela,Industry (fuel use),14.82,104.47
+VEN,Venezuela,Road transport,14.34,104.47
+VGB,British Virgin Islands,"Aviation, shipping & rail",0.0,0.08
+VGB,British Virgin Islands,Buildings & other,0.01,0.08
+VGB,British Virgin Islands,Electricity & heat,0.04,0.08
+VGB,British Virgin Islands,Industrial processes,0.0,0.08
+VGB,British Virgin Islands,Industry (fuel use),0.01,0.08
+VGB,British Virgin Islands,Road transport,0.02,0.08
+VNM,Vietnam,Agriculture & waste,2.78,373.78
+VNM,Vietnam,"Aviation, shipping & rail",7.05,373.78
+VNM,Vietnam,Buildings & other,15.23,373.78
+VNM,Vietnam,Electricity & heat,174.21,373.78
+VNM,Vietnam,Fuel extraction & refining,1.27,373.78
+VNM,Vietnam,Industrial processes,43.8,373.78
+VNM,Vietnam,Industry (fuel use),87.5,373.78
+VNM,Vietnam,Road transport,41.94,373.78
+VUT,Vanuatu,"Aviation, shipping & rail",0.03,0.29
+VUT,Vanuatu,Buildings & other,0.04,0.29
+VUT,Vanuatu,Electricity & heat,0.07,0.29
+VUT,Vanuatu,Fuel extraction & refining,0.0,0.29
+VUT,Vanuatu,Industrial processes,0.0,0.29
+VUT,Vanuatu,Industry (fuel use),0.04,0.29
+VUT,Vanuatu,Road transport,0.12,0.29
+WLF,Wallis and Futuna,Industrial processes,0.0,0.0
+WSM,Samoa,"Aviation, shipping & rail",0.03,0.31
+WSM,Samoa,Buildings & other,0.04,0.31
+WSM,Samoa,Electricity & heat,0.07,0.31
+WSM,Samoa,Fuel extraction & refining,0.0,0.31
+WSM,Samoa,Industrial processes,0.0,0.31
+WSM,Samoa,Industry (fuel use),0.04,0.31
+WSM,Samoa,Road transport,0.13,0.31
+YEM,Yemen,Buildings & other,3.25,16.77
+YEM,Yemen,Electricity & heat,3.76,16.77
+YEM,Yemen,Fuel extraction & refining,0.67,16.77
+YEM,Yemen,Industrial processes,1.76,16.77
+YEM,Yemen,Industry (fuel use),1.94,16.77
+YEM,Yemen,Road transport,5.4,16.77
+ZAF,South Africa,Agriculture & waste,1.27,403.7
+ZAF,South Africa,"Aviation, shipping & rail",2.87,403.7
+ZAF,South Africa,Buildings & other,22.84,403.7
+ZAF,South Africa,Electricity & heat,199.95,403.7
+ZAF,South Africa,Fuel extraction & refining,71.85,403.7
+ZAF,South Africa,Industrial processes,15.62,403.7
+ZAF,South Africa,Industry (fuel use),47.39,403.7
+ZAF,South Africa,Road transport,41.91,403.7
+ZMB,Zambia,Agriculture & waste,0.38,11.54
+ZMB,Zambia,"Aviation, shipping & rail",0.22,11.54
+ZMB,Zambia,Buildings & other,0.5,11.54
+ZMB,Zambia,Electricity & heat,3.17,11.54
+ZMB,Zambia,Fuel extraction & refining,0.01,11.54
+ZMB,Zambia,Industrial processes,1.5,11.54
+ZMB,Zambia,Industry (fuel use),3.42,11.54
+ZMB,Zambia,Road transport,2.32,11.54
+ZWE,Zimbabwe,Agriculture & waste,0.23,16.44
+ZWE,Zimbabwe,"Aviation, shipping & rail",0.29,16.44
+ZWE,Zimbabwe,Buildings & other,1.52,16.44
+ZWE,Zimbabwe,Electricity & heat,6.06,16.44
+ZWE,Zimbabwe,Fuel extraction & refining,0.55,16.44
+ZWE,Zimbabwe,Industrial processes,1.35,16.44
+ZWE,Zimbabwe,Industry (fuel use),4.3,16.44
+ZWE,Zimbabwe,Road transport,2.15,16.44

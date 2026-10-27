@@ -1,0 +1,111 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "background": "#fffef9",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "labelColor": "#354b49",
+      "gridColor": "#e5e9e4"
+    }
+  },
+  "height": {
+    "step": 32
+  },
+  "data": {
+    "url": "data/per_person_top.csv"
+  },
+  "encoding": {
+    "y": {
+      "field": "label",
+      "type": "nominal",
+      "sort": {
+        "field": "co2_pc",
+        "order": "descending"
+      },
+      "axis": {
+        "title": null,
+        "labelLimit": 215
+      }
+    },
+    "color": {
+      "field": "group",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Highest per person",
+          "Australia",
+          "Malaysia"
+        ],
+        "range": [
+          "#8b9c97",
+          "#d35e38",
+          "#237e89"
+        ]
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "cornerRadiusEnd": 5,
+        "height": 20
+      },
+      "encoding": {
+        "x": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "title": "Tonnes of CO₂ per person",
+          "scale": {
+            "zero": true
+          }
+        },
+        "tooltip": [
+          {
+            "field": "country"
+          },
+          {
+            "field": "co2_pc",
+            "title": "Tonnes/person",
+            "format": ".2f"
+          },
+          {
+            "field": "rank",
+            "title": "World rank"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 7,
+        "fontSize": 12,
+        "fontWeight": "bold",
+        "color": "#263b39"
+      },
+      "encoding": {
+        "x": {
+          "field": "co2_pc",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "format": ".1f"
+        }
+      }
+    }
+  ]
+}

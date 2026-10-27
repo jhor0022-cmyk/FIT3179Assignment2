@@ -1,0 +1,204 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 430,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "projection": {
+    "type": "equalEarth"
+  },
+  "description": "Choropleth of CO2 emissions per person by country with a year slider. Grey countries have no data.",
+  "params": [
+    {
+      "name": "selYear",
+      "value": 2024
+    }
+  ],
+  "title": {
+    "text": {
+      "expr": "'CO₂ emissions per person, ' + selYear"
+    }
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json",
+        "format": {
+          "type": "topojson",
+          "feature": "countries"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.id !== '010'"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e3e6dc",
+        "stroke": "#fffef9",
+        "strokeWidth": 0.4
+      }
+    },
+    {
+      "data": {
+        "url": "data/emissions.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "iso_num": "string"
+          }
+        }
+      },
+      "params": [
+        {
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "on": "mouseover",
+            "clear": "mouseout",
+            "fields": [
+              "iso"
+            ]
+          }
+        }
+      ],
+      "transform": [
+        {
+          "filter": "datum.year == selYear"
+        },
+        {
+          "filter": "isValid(datum.co2_pc)"
+        },
+        {
+          "lookup": "iso_num",
+          "from": {
+            "data": {
+              "url": "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json",
+              "format": {
+                "type": "topojson",
+                "feature": "countries"
+              }
+            },
+            "key": "id"
+          },
+          "as": "geo"
+        }
+      ],
+      "mark": {
+        "type": "geoshape"
+      },
+      "encoding": {
+        "shape": {
+          "field": "geo",
+          "type": "geojson"
+        },
+        "color": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [
+              1,
+              2,
+              4,
+              6,
+              8,
+              12,
+              16
+            ],
+            "range": [
+              "#eef6f3",
+              "#d3e8e1",
+              "#a9d2c7",
+              "#78b8ae",
+              "#4a9a96",
+              "#2a7b7f",
+              "#175c66",
+              "#0b3f4d"
+            ]
+          },
+          "legend": {
+            "title": "Tonnes of CO₂ per person",
+            "orient": "bottom",
+            "direction": "horizontal",
+            "titleLimit": 300
+          }
+        },
+        "stroke": {
+          "condition": {
+            "param": "hover",
+            "empty": false,
+            "value": "#111"
+          },
+          "value": "#fffef9"
+        },
+        "strokeWidth": {
+          "condition": {
+            "param": "hover",
+            "empty": false,
+            "value": 1.8
+          },
+          "value": 0.4
+        },
+        "tooltip": [
+          {
+            "field": "country",
+            "title": "Country"
+          },
+          {
+            "field": "co2_pc",
+            "title": "Tonnes per person",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "co2",
+            "title": "Total CO₂ (Mt)",
+            "type": "quantitative",
+            "format": ",.0f"
+          },
+          {
+            "field": "pop",
+            "title": "Population",
+            "type": "quantitative",
+            "format": ",.0f"
+          }
+        ]
+      }
+    }
+  ],
+  "background": "#fffef9",
+  "config": {
+    "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "gridColor": "#e4e8e0",
+      "domainColor": "#9aa8a3",
+      "tickColor": "#9aa8a3",
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontWeight": 600,
+      "anchor": "start",
+      "color": "#172d2c",
+      "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    }
+  }
+}

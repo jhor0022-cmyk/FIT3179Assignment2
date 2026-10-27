@@ -1,0 +1,185 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 430,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "projection": {
+    "type": "equalEarth"
+  },
+  "description": "Proportional symbol map of total CO2 emissions per country; circle area is proportional to emissions. A slider selects the year. Circle positions are country centroids computed in the browser (dataset 'centroids').",
+  "params": [
+    {
+      "name": "selYear",
+      "value": 2024
+    }
+  ],
+  "title": {
+    "text": {
+      "expr": "'Total CO₂ emissions by country, ' + selYear"
+    }
+  },
+  "datasets": {
+    "centroids": []
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json",
+        "format": {
+          "type": "topojson",
+          "feature": "countries"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.id !== '010'"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e3e6dc",
+        "stroke": "#fffef9",
+        "strokeWidth": 0.4
+      }
+    },
+    {
+      "data": {
+        "url": "data/emissions.csv",
+        "format": {
+          "type": "csv",
+          "parse": {
+            "iso_num": "string"
+          }
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.year == selYear"
+        },
+        {
+          "lookup": "iso_num",
+          "from": {
+            "data": {
+              "name": "centroids"
+            },
+            "key": "id",
+            "fields": [
+              "lon",
+              "lat"
+            ]
+          }
+        },
+        {
+          "filter": "isValid(datum.lon)"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "fill": "#d35e38",
+        "fillOpacity": 0.55,
+        "stroke": "#8a3a1f",
+        "strokeWidth": 0.6
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "size": {
+          "field": "co2",
+          "type": "quantitative",
+          "scale": {
+            "type": "linear",
+            "domain": [
+              0,
+              13000
+            ],
+            "range": [
+              0,
+              3000
+            ]
+          },
+          "legend": {
+            "title": "Million tonnes CO₂",
+            "values": [
+              100,
+              1000,
+              5000,
+              10000
+            ],
+            "orient": "bottom-left",
+            "direction": "horizontal",
+            "symbolFillColor": "#d35e38",
+            "symbolOpacity": 0.55
+          }
+        },
+        "order": {
+          "field": "co2",
+          "sort": "descending"
+        },
+        "tooltip": [
+          {
+            "field": "country",
+            "title": "Country"
+          },
+          {
+            "field": "co2",
+            "title": "Total CO₂ (Mt)",
+            "type": "quantitative",
+            "format": ",.0f"
+          },
+          {
+            "field": "rank",
+            "title": "World rank",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "co2_pc",
+            "title": "Tonnes per person",
+            "type": "quantitative",
+            "format": ".1f"
+          }
+        ]
+      }
+    }
+  ],
+  "background": "#fffef9",
+  "config": {
+    "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "gridColor": "#e4e8e0",
+      "domainColor": "#9aa8a3",
+      "tickColor": "#9aa8a3",
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontWeight": 600,
+      "anchor": "start",
+      "color": "#172d2c",
+      "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    }
+  }
+}

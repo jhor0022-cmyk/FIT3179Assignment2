@@ -1,0 +1,54 @@
+{
+  "latest_year": 2024,
+  "edgar_year": 2024,
+  "base_year": 2000,
+  "world_gt": 38.6,
+  "world_per_person": 4.7,
+  "top1": {
+    "country": "China",
+    "share": 31.8
+  },
+  "top2": {
+    "country": "United States",
+    "share": 12.7
+  },
+  "top7_share": 64.1,
+  "n_up": 108,
+  "n_down": 47,
+  "biggest_up": {
+    "country": "China",
+    "mt": 8645
+  },
+  "biggest_down": {
+    "country": "United States",
+    "mt": 1119
+  },
+  "highest_pc": {
+    "country": "Qatar",
+    "t": 41.3
+  },
+  "Australia": {
+    "co2_pc": 14.5,
+    "rank_pc": 8,
+    "n_ranked": 159,
+    "co2_mt": 387,
+    "rank_total": 16,
+    "share": 1.0,
+    "change_pct": 11,
+    "cum_gt": 20.0,
+    "top_sector": "Electricity & heat",
+    "top_sector_share": 42
+  },
+  "Malaysia": {
+    "co2_pc": 8.2,
+    "rank_pc": 21,
+    "n_ranked": 159,
+    "co2_mt": 290,
+    "rank_total": 20,
+    "share": 0.75,
+    "change_pct": 136,
+    "cum_gt": 7.0,
+    "top_sector": "Electricity & heat",
+    "top_sector_share": 41
+  }
+}
