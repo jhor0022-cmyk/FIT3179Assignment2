@@ -1,0 +1,103 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding"
+  },
+  "height": 260,
+  "description": "Area and line chart of world CO2 emissions per year since 1850.",
+  "title": "World CO₂ emissions per year since 1850",
+  "data": {
+    "url": "data/world.csv"
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "title": null,
+      "axis": {
+        "format": "d",
+        "tickCount": 8
+      },
+      "scale": {
+        "nice": false
+      }
+    },
+    "y": {
+      "field": "co2_gt",
+      "type": "quantitative",
+      "title": "Billion tonnes of CO₂"
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "area",
+        "color": "#176b65",
+        "opacity": 0.18
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "#176b65",
+        "strokeWidth": 2.2
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "opacity": 0,
+        "size": 60
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "year",
+            "title": "Year",
+            "type": "quantitative",
+            "format": "d"
+          },
+          {
+            "field": "co2_gt",
+            "title": "World CO₂ (Gt)",
+            "type": "quantitative",
+            "format": ".1f"
+          }
+        ]
+      }
+    }
+  ],
+  "background": "#fffef9",
+  "config": {
+    "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "gridColor": "#e4e8e0",
+      "domainColor": "#9aa8a3",
+      "tickColor": "#9aa8a3",
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": 500,
+      "labelColor": "#536766",
+      "titleColor": "#172d2c"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontWeight": 600,
+      "anchor": "start",
+      "color": "#172d2c",
+      "font": "Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    }
+  }
+}

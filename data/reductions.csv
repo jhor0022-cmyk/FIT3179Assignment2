@@ -1,0 +1,211 @@
+country,year,co2
+France,1990,394.9
+France,1991,419.1
+France,1992,408.4
+France,1993,388.9
+France,1994,381.9
+France,1995,387.0
+France,1996,403.4
+France,1997,396.0
+France,1998,414.4
+France,1999,413.1
+France,2000,407.4
+France,2001,411.6
+France,2002,407.0
+France,2003,413.0
+France,2004,414.1
+France,2005,416.3
+France,2006,406.7
+France,2007,396.5
+France,2008,389.8
+France,2009,371.4
+France,2010,377.1
+France,2011,355.1
+France,2012,358.1
+France,2013,360.0
+France,2014,327.8
+France,2015,332.1
+France,2016,335.5
+France,2017,338.4
+France,2018,323.1
+France,2019,316.3
+France,2020,281.5
+France,2021,307.3
+France,2022,295.3
+France,2023,270.3
+France,2024,264.2
+Germany,1990,1054.8
+Germany,1991,1016.9
+Germany,1992,969.5
+Germany,1993,959.4
+Germany,1994,943.2
+Germany,1995,939.9
+Germany,1996,959.7
+Germany,1997,931.5
+Germany,1998,923.5
+Germany,1999,895.4
+Germany,2000,899.0
+Germany,2001,915.3
+Germany,2002,898.8
+Germany,2003,894.5
+Germany,2004,876.6
+Germany,2005,867.9
+Germany,2006,886.4
+Germany,2007,846.2
+Germany,2008,856.6
+Germany,2009,790.0
+Germany,2010,826.7
+Germany,2011,804.5
+Germany,2012,814.1
+Germany,2013,831.7
+Germany,2014,792.6
+Germany,2015,800.8
+Germany,2016,798.0
+Germany,2017,784.6
+Germany,2018,758.8
+Germany,2019,708.6
+Germany,2020,647.2
+Germany,2021,678.0
+Germany,2022,667.8
+Germany,2023,593.8
+Germany,2024,572.3
+Italy,1990,438.2
+Italy,1991,437.7
+Italy,1992,437.9
+Italy,1993,430.3
+Italy,1994,424.5
+Italy,1995,448.6
+Italy,1996,442.8
+Italy,1997,448.6
+Italy,1998,460.8
+Italy,1999,465.5
+Italy,2000,469.6
+Italy,2001,469.7
+Italy,2002,477.1
+Italy,2003,495.1
+Italy,2004,500.7
+Italy,2005,501.4
+Italy,2006,496.1
+Italy,2007,489.8
+Italy,2008,478.1
+Italy,2009,424.0
+Italy,2010,435.7
+Italy,2011,423.9
+Italy,2012,403.4
+Italy,2013,369.5
+Italy,2014,349.4
+Italy,2015,361.2
+Italy,2016,358.1
+Italy,2017,352.7
+Italy,2018,349.0
+Italy,2019,339.6
+Italy,2020,302.6
+Italy,2021,335.9
+Italy,2022,340.1
+Italy,2023,312.3
+Italy,2024,301.9
+Japan,1990,1154.9
+Japan,1991,1166.6
+Japan,1992,1175.5
+Japan,1993,1169.3
+Japan,1994,1223.2
+Japan,1995,1235.9
+Japan,1996,1248.7
+Japan,1997,1241.0
+Japan,1998,1201.3
+Japan,1999,1238.1
+Japan,2000,1260.2
+Japan,2001,1245.9
+Japan,2002,1275.4
+Japan,2003,1283.8
+Japan,2004,1279.1
+Japan,2005,1286.4
+Japan,2006,1263.4
+Japan,2007,1299.0
+Japan,2008,1228.7
+Japan,2009,1160.3
+Japan,2010,1211.1
+Japan,2011,1261.2
+Japan,2012,1302.1
+Japan,2013,1311.9
+Japan,2014,1260.3
+Japan,2015,1220.0
+Japan,2016,1199.9
+Japan,2017,1184.4
+Japan,2018,1138.5
+Japan,2019,1102.1
+Japan,2020,1037.3
+Japan,2021,1058.5
+Japan,2022,1029.6
+Japan,2023,986.9
+Japan,2024,961.9
+United Kingdom,1990,601.9
+United Kingdom,1991,609.4
+United Kingdom,1992,593.8
+United Kingdom,1993,579.6
+United Kingdom,1994,574.0
+United Kingdom,1995,566.2
+United Kingdom,1996,586.8
+United Kingdom,1997,562.7
+United Kingdom,1998,568.5
+United Kingdom,1999,561.6
+United Kingdom,2000,569.0
+United Kingdom,2001,578.0
+United Kingdom,2002,560.3
+United Kingdom,2003,571.6
+United Kingdom,2004,573.4
+United Kingdom,2005,570.3
+United Kingdom,2006,567.8
+United Kingdom,2007,559.6
+United Kingdom,2008,544.9
+United Kingdom,2009,494.1
+United Kingdom,2010,511.9
+United Kingdom,2011,469.7
+United Kingdom,2012,487.5
+United Kingdom,2013,477.6
+United Kingdom,2014,438.8
+United Kingdom,2015,422.5
+United Kingdom,2016,399.4
+United Kingdom,2017,387.4
+United Kingdom,2018,379.7
+United Kingdom,2019,364.8
+United Kingdom,2020,326.3
+United Kingdom,2021,342.4
+United Kingdom,2022,311.1
+United Kingdom,2023,307.8
+United Kingdom,2024,312.9
+United States,1990,5131.8
+United States,1991,5076.4
+United States,1992,5178.8
+United States,1993,5279.5
+United States,1994,5361.9
+United States,1995,5425.8
+United States,1996,5601.1
+United States,1997,5673.1
+United States,1998,5736.4
+United States,1999,5800.3
+United States,2000,6023.2
+United States,2001,5903.6
+United States,2002,5947.8
+United States,2003,6006.4
+United States,2004,6111.5
+United States,2005,6126.9
+United States,2006,6045.3
+United States,2007,6121.5
+United States,2008,5919.2
+United States,2009,5486.1
+United States,2010,5669.2
+United States,2011,5539.0
+United States,2012,5331.5
+United States,2013,5473.4
+United States,2014,5531.4
+United States,2015,5368.5
+United States,2016,5245.4
+United States,2017,5195.4
+United States,2018,5361.2
+United States,2019,5235.9
+United States,2020,4690.0
+United States,2021,5020.1
+United States,2022,5055.4
+United States,2023,4918.4
+United States,2024,4904.1

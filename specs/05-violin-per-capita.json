@@ -1,0 +1,388 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Mirrored density plots (violins) of 2024 CO2 emissions per person by continent. Each country is weighted equally.",
+  "background": "#fffef9",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "gridColor": "#e2e8e1",
+      "domain": false,
+      "tickColor": "#cad2c9",
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    },
+    "title": {
+      "anchor": "start",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "color": "#304c43"
+    },
+    "concat": {
+      "spacing": 6
+    }
+  },
+  "vconcat": [
+    {
+      "title": "Oceania",
+      "width": "container",
+      "height": 70,
+      "data": {
+        "url": "data/continent-per-person-2024.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.continent === 'Oceania' && isValid(datum.co2_pc) && datum.co2_pc >= 0"
+        },
+        {
+          "density": "co2_pc",
+          "extent": [
+            0,
+            45
+          ],
+          "steps": 180,
+          "bandwidth": 1.7,
+          "as": [
+            "co2_pc",
+            "density"
+          ]
+        },
+        {
+          "calculate": "-datum.density",
+          "as": "negativeDensity"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "opacity": 0.85,
+        "interpolate": "monotone",
+        "color": "#aa7860"
+      },
+      "encoding": {
+        "x": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              45
+            ]
+          },
+          "axis": {
+            "title": null,
+            "labels": false,
+            "ticks": false,
+            "grid": true,
+            "domain": false
+          }
+        },
+        "y": {
+          "field": "density",
+          "type": "quantitative",
+          "stack": null,
+          "axis": null
+        },
+        "y2": {
+          "field": "negativeDensity"
+        },
+        "tooltip": [
+          {
+            "field": "co2_pc",
+            "type": "quantitative",
+            "title": "Tonnes/person",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Europe",
+      "width": "container",
+      "height": 70,
+      "data": {
+        "url": "data/continent-per-person-2024.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.continent === 'Europe' && isValid(datum.co2_pc) && datum.co2_pc >= 0"
+        },
+        {
+          "density": "co2_pc",
+          "extent": [
+            0,
+            45
+          ],
+          "steps": 180,
+          "bandwidth": 1.7,
+          "as": [
+            "co2_pc",
+            "density"
+          ]
+        },
+        {
+          "calculate": "-datum.density",
+          "as": "negativeDensity"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "opacity": 0.85,
+        "interpolate": "monotone",
+        "color": "#3e7654"
+      },
+      "encoding": {
+        "x": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              45
+            ]
+          },
+          "axis": {
+            "title": null,
+            "labels": false,
+            "ticks": false,
+            "grid": true,
+            "domain": false
+          }
+        },
+        "y": {
+          "field": "density",
+          "type": "quantitative",
+          "stack": null,
+          "axis": null
+        },
+        "y2": {
+          "field": "negativeDensity"
+        },
+        "tooltip": [
+          {
+            "field": "co2_pc",
+            "type": "quantitative",
+            "title": "Tonnes/person",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Asia",
+      "width": "container",
+      "height": 70,
+      "data": {
+        "url": "data/continent-per-person-2024.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.continent === 'Asia' && isValid(datum.co2_pc) && datum.co2_pc >= 0"
+        },
+        {
+          "density": "co2_pc",
+          "extent": [
+            0,
+            45
+          ],
+          "steps": 180,
+          "bandwidth": 1.7,
+          "as": [
+            "co2_pc",
+            "density"
+          ]
+        },
+        {
+          "calculate": "-datum.density",
+          "as": "negativeDensity"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "opacity": 0.85,
+        "interpolate": "monotone",
+        "color": "#275e62"
+      },
+      "encoding": {
+        "x": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              45
+            ]
+          },
+          "axis": {
+            "title": null,
+            "labels": false,
+            "ticks": false,
+            "grid": true,
+            "domain": false
+          }
+        },
+        "y": {
+          "field": "density",
+          "type": "quantitative",
+          "stack": null,
+          "axis": null
+        },
+        "y2": {
+          "field": "negativeDensity"
+        },
+        "tooltip": [
+          {
+            "field": "co2_pc",
+            "type": "quantitative",
+            "title": "Tonnes/person",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Americas",
+      "width": "container",
+      "height": 70,
+      "data": {
+        "url": "data/continent-per-person-2024.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.continent === 'Americas' && isValid(datum.co2_pc) && datum.co2_pc >= 0"
+        },
+        {
+          "density": "co2_pc",
+          "extent": [
+            0,
+            45
+          ],
+          "steps": 180,
+          "bandwidth": 1.7,
+          "as": [
+            "co2_pc",
+            "density"
+          ]
+        },
+        {
+          "calculate": "-datum.density",
+          "as": "negativeDensity"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "opacity": 0.85,
+        "interpolate": "monotone",
+        "color": "#b77d55"
+      },
+      "encoding": {
+        "x": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              45
+            ]
+          },
+          "axis": {
+            "title": null,
+            "labels": false,
+            "ticks": false,
+            "grid": true,
+            "domain": false
+          }
+        },
+        "y": {
+          "field": "density",
+          "type": "quantitative",
+          "stack": null,
+          "axis": null
+        },
+        "y2": {
+          "field": "negativeDensity"
+        },
+        "tooltip": [
+          {
+            "field": "co2_pc",
+            "type": "quantitative",
+            "title": "Tonnes/person",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Africa",
+      "width": "container",
+      "height": 70,
+      "data": {
+        "url": "data/continent-per-person-2024.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.continent === 'Africa' && isValid(datum.co2_pc) && datum.co2_pc >= 0"
+        },
+        {
+          "density": "co2_pc",
+          "extent": [
+            0,
+            45
+          ],
+          "steps": 180,
+          "bandwidth": 1.7,
+          "as": [
+            "co2_pc",
+            "density"
+          ]
+        },
+        {
+          "calculate": "-datum.density",
+          "as": "negativeDensity"
+        }
+      ],
+      "mark": {
+        "type": "area",
+        "opacity": 0.85,
+        "interpolate": "monotone",
+        "color": "#6f9073"
+      },
+      "encoding": {
+        "x": {
+          "field": "co2_pc",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              45
+            ]
+          },
+          "axis": {
+            "title": "Annual CO\u2082 emissions per person (tonnes, 2024)",
+            "labels": true,
+            "ticks": true,
+            "grid": true,
+            "domain": false
+          }
+        },
+        "y": {
+          "field": "density",
+          "type": "quantitative",
+          "stack": null,
+          "axis": null
+        },
+        "y2": {
+          "field": "negativeDensity"
+        },
+        "tooltip": [
+          {
+            "field": "co2_pc",
+            "type": "quantitative",
+            "title": "Tonnes/person",
+            "format": ".2f"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+cell,row,col,group,rank,share_pct
+0,0,0,China,1,31.8
+1,0,1,China,1,31.8
+2,0,2,China,1,31.8
+3,0,3,China,1,31.8
+4,0,4,China,1,31.8
+5,0,5,China,1,31.8
+6,0,6,China,1,31.8
+7,0,7,China,1,31.8
+8,0,8,China,1,31.8
+9,0,9,China,1,31.8
+10,1,0,China,1,31.8
+11,1,1,China,1,31.8
+12,1,2,China,1,31.8
+13,1,3,China,1,31.8
+14,1,4,China,1,31.8
+15,1,5,China,1,31.8
+16,1,6,China,1,31.8
+17,1,7,China,1,31.8
+18,1,8,China,1,31.8
+19,1,9,China,1,31.8
+20,2,0,China,1,31.8
+21,2,1,China,1,31.8
+22,2,2,China,1,31.8
+23,2,3,China,1,31.8
+24,2,4,China,1,31.8
+25,2,5,China,1,31.8
+26,2,6,China,1,31.8
+27,2,7,China,1,31.8
+28,2,8,China,1,31.8
+29,2,9,China,1,31.8
+30,3,0,China,1,31.8
+31,3,1,China,1,31.8
+32,3,2,United States,2,12.7
+33,3,3,United States,2,12.7
+34,3,4,United States,2,12.7
+35,3,5,United States,2,12.7
+36,3,6,United States,2,12.7
+37,3,7,United States,2,12.7
+38,3,8,United States,2,12.7
+39,3,9,United States,2,12.7
+40,4,0,United States,2,12.7
+41,4,1,United States,2,12.7
+42,4,2,United States,2,12.7
+43,4,3,United States,2,12.7
+44,4,4,United States,2,12.7
+45,4,5,India,3,8.3
+46,4,6,India,3,8.3
+47,4,7,India,3,8.3
+48,4,8,India,3,8.3
+49,4,9,India,3,8.3
+50,5,0,India,3,8.3
+51,5,1,India,3,8.3
+52,5,2,India,3,8.3
+53,5,3,Russia,4,4.6
+54,5,4,Russia,4,4.6
+55,5,5,Russia,4,4.6
+56,5,6,Russia,4,4.6
+57,5,7,Russia,4,4.6
+58,5,8,Japan,5,2.5
+59,5,9,Japan,5,2.5
+60,6,0,Indonesia,6,2.1
+61,6,1,Indonesia,6,2.1
+62,6,2,Iran,7,2.1
+63,6,3,Iran,7,2.1
+64,6,4,Rest of world,8,35.9
+65,6,5,Rest of world,8,35.9
+66,6,6,Rest of world,8,35.9
+67,6,7,Rest of world,8,35.9
+68,6,8,Rest of world,8,35.9
+69,6,9,Rest of world,8,35.9
+70,7,0,Rest of world,8,35.9
+71,7,1,Rest of world,8,35.9
+72,7,2,Rest of world,8,35.9
+73,7,3,Rest of world,8,35.9
+74,7,4,Rest of world,8,35.9
+75,7,5,Rest of world,8,35.9
+76,7,6,Rest of world,8,35.9
+77,7,7,Rest of world,8,35.9
+78,7,8,Rest of world,8,35.9
+79,7,9,Rest of world,8,35.9
+80,8,0,Rest of world,8,35.9
+81,8,1,Rest of world,8,35.9
+82,8,2,Rest of world,8,35.9
+83,8,3,Rest of world,8,35.9
+84,8,4,Rest of world,8,35.9
+85,8,5,Rest of world,8,35.9
+86,8,6,Rest of world,8,35.9
+87,8,7,Rest of world,8,35.9
+88,8,8,Rest of world,8,35.9
+89,8,9,Rest of world,8,35.9
+90,9,0,Rest of world,8,35.9
+91,9,1,Rest of world,8,35.9
+92,9,2,Rest of world,8,35.9
+93,9,3,Rest of world,8,35.9
+94,9,4,Rest of world,8,35.9
+95,9,5,Rest of world,8,35.9
+96,9,6,Rest of world,8,35.9
+97,9,7,Rest of world,8,35.9
+98,9,8,Rest of world,8,35.9
+99,9,9,Rest of world,8,35.9
